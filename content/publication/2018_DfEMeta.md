@@ -42,8 +42,7 @@ selected = true
 projects = [risk]
 
 # Links (optional).
-url_pdf = "pdf/my-paper-name.pdf"
-url_Paper = "pdf/my-paper-name.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -52,6 +51,10 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
+
+[[url_custom]]
+    name = "PDF"
+    url = "pdf/my-paper-name.pdf"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
