@@ -37,7 +37,7 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
 # To use, add an image named `featured.jpg/png` to your project's folder.
 [image]
   # Caption (optional)
-  image = "casino_narrow.png"
+  "casino_narrow.png"
   caption = ""
 
   # Focal point (optional)
