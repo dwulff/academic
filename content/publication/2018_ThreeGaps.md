@@ -1,5 +1,5 @@
 +++
-title = "Modeling choices in delay discounting"
+title = "Three gaps and what they may mean for risk preference"
 
 # Date first published.
 date = "2018-12-01"
@@ -19,8 +19,8 @@ authors = ["Ralph Hertwig", "Dirk U. Wulff", "Rui Mata"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Psychological Science*"
-publication_short = "In *Psychological Science*"
+publication = "In *Philosophical Transactions of the Royal Society B: Biological Sciences*"
+publication_short = "In *Philosophical Transactions of the Royal Society B*"
 
 # Abstract and optional shortened version.
 abstract = "Risk preference is one of the most important building blocks of choice theories in the behavioural sciences. In economics, it is often conceptualised as preferences concerning variance of monetary payoffs, whereas in psychology risk preference is often thought to capture the propensity to engage in behaviour with the potential for loss or harm. Both concepts are associated with distinct measurement traditions: Economics has traditionally relied on behavioural measures, while psychology has often relied on self-reports. We review three important gaps that have emerged from work stemming from these two measurement traditions: First, a description–experience gap which suggests that behavioural measures do not speak with one voice and can give very different views on an individual’s appetite for risk; second, a behaviour–self-report gap which suggests that different self-report measures, but not behavioural measures, show a high degree of convergent validity; and, third, a temporal stability gap which suggests that self-reports, but not behavioural measures, show considerable temporal stability across periods of years. Risk preference, when measured through self-reported preferences—but not behavioural preferences—appears as a moderately stable psychological trait with both general and domain-specific components. We argue that future work needs to address the gaps which have emerged from the two measurement traditions and test their differential predictive validity for important economic, health and wellbeing outcomes."
@@ -38,10 +38,10 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = ["risk"]
+projects = ["experience"]
 
 # Links (optional).
-url_pdf = "pdf/WulffVanDenBos2017ModelingDelayDiscounting.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -50,6 +50,8 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
+
+url_custom = [{name = "Preprint", url = "pdf/HertwigWulffMata2018PhilTransRoyalSocB"}]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
