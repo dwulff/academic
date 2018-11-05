@@ -275,8 +275,8 @@ enableGitInfo = false
     link = "https://www.researchgate.net/profile/Dirk_Wulff"
 
   [[params.social]]
-    icon = "fab"
-    icon_pack = "linkedin"
+    icon = "linkedin"
+    icon_pack = "fab"
     link = "https://www.linkedin.com/in/dirk-wulff-723a7772/"
 
   [[params.social]]
