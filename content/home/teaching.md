@@ -16,6 +16,11 @@ weight = 60
 +++
 
 Fall 2018
-[Networks in Psychology]{{< ref "2018_Networks.md" >}}
+[Networks in Psychology](https://www.dirkwulff.org/courses/2018_Networks)
+[What are good decisions?](https://www.dirkwulff.org/courses/2018_Networks)
 
- I teach Behavioral Finance and Real Estate (3rd year undergraduate). This course provides a behavioral perspective on real estate decision making and markets. Students learn how behavioral biases affect the decisions of participants in real estate markets, and how the bounded rationality of market participants can explain real estate market dynamics. In my part of the course, I provide students with a psychological perspective on negotiations, property valuations, and mortgage choices.
+Spring 2019
+Natural language processing
+
+R Courses
+[The R Bootcamp](https://therbootcamp.github.io/)
