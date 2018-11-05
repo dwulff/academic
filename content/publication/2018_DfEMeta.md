@@ -1,8 +1,8 @@
 +++
-title = "A publication title, such as title of a paper"
+title = "A meta-analytic review of two modes of learning and the description-experience gap"
 
 # Date first published.
-date = "2013-07-01"
+date = "2018-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Dirk U. Wulff", "Max Mergenthaler Canseco", "Ralph Hertwig"]
