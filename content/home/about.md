@@ -35,4 +35,4 @@ weight = 5
 
 I am a researcher at the Center for Cognitive and Decision Science (CDS), University of Basel, Switzerland, and an adjunct researcher at the Center for Adaptive Rationality (ARC), Max Planck Institute for Human Development, Germany.
 
-I my work, I study the cognitive underpinnings of human memory and decision making using experiments, computational modeling, network analysis, natural language processing, and process tracing.
+I study the cognitive underpinnings of human memory and decision making using experiments, computational modeling, network analysis, natural language processing, and process tracing.
