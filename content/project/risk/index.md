@@ -35,7 +35,8 @@ url_code = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
-[image]
+[header]
+  image = "casino_wide.png"
   caption = ""
 
   # Focal point (optional)
