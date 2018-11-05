@@ -1,6 +1,6 @@
 +++
 title = "Aging Lexicon Symposium"
-subtitle = "Create a beautifully simple website in under 10 minutes :rocket:"
+subtitle = "Theory, Models, and Measurement of the Life Span Development of the Mental Lexicon"
 
 date = 2016-04-20T00:00:00
 lastmod = 2018-01-13T00:00:00
@@ -50,6 +50,6 @@ summary = ""
 
 The Aging Lexicon Project seeks to understand adult age differences in the development of lexical and semantic knowledge.
 
-Taking place in Basel, June 7-9, 2018, the Symposium on The Aging Lexicon gathered experts in Psychology, Linguistics, Neuroscience, and related fields to discuss open issues concerning the aging lexicon.
+On June 7-9, 2018, the Symposium on The Aging Lexicon gathered in Basel experts in Psychology, Linguistics, Neuroscience, and related fields to discuss open issues concerning the aging lexicon.
 
-Find out more at [Aging Lexicon Symposium](https://aginglexicon.github.io/)
+Find out more at [Aging Lexicon Symposium](https://aginglexicon.github.io/).
