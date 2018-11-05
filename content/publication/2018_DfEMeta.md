@@ -53,7 +53,7 @@ url_poster = ""
 url_source = ""
 
 [[url_custom]]
-    name = "PDF"
+    name = "Journal article"
     url = "pdf/my-paper-name.pdf"
 
 # Custom links (optional).
