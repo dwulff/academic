@@ -17,6 +17,7 @@ weight = 60
 
 ## Fall 2018
 [Networks in Psychology](https://www.dirkwulff.org/courses/2018_Networks) - seminar with exercises on the theoretical and practical basic of networks science with applied examples from psychology including social networks, semantic networks, psychometric networks, and neural networks.
+
 [What are good decisions?](https://www.dirkwulff.org/courses/2018_Networks) - theoretical seminar discussing in historical order foundational texts on the question of rationality and normative decision making.
 
 ## Spring 2019
