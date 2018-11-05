@@ -15,12 +15,12 @@ weight = 60
 
 +++
 
-Fall 2018
-[Networks in Psychology](https://www.dirkwulff.org/courses/2018_Networks)
+## Fall 2018
+[Networks in Psychology](https://www.dirkwulff.org/courses/2018_Networks) - this courses teaches students the theoretical and practical basic of networks science with applied examples from psychology including social networks, semantic networks, psychometric networks, and neural networks.
 [What are good decisions?](https://www.dirkwulff.org/courses/2018_Networks)
 
-Spring 2019
+## Spring 2019
 Natural language processing
 
-R Courses
+## R Courses
 [The R Bootcamp](https://therbootcamp.github.io/)
