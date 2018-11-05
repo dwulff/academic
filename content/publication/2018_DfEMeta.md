@@ -27,8 +27,6 @@ abstract = "People can learn about the probabilistic consequences of their actio
 
 abstract_short = "Meta-analysis on the description-experience gap evaluating its determinants by reference to more than 70,000 choices made by more than 6,000 participants"
 
-cite_as = "this is a test"
-
 # Featured image thumbnail (optional)
 image_preview = ""
 
@@ -52,7 +50,7 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
-url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Journal article", url = "pdf/WulffVanDenBos2017ModelingDelayDiscounting.pdf"}]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
