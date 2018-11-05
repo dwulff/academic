@@ -1,5 +1,5 @@
 +++
-title = "Three gaps and what they may mean for risk preference"
+title = "How short- and long-run aspirations impact search and choice in decisions from experience"
 
 # Date first published.
 date = "2018-12-01"

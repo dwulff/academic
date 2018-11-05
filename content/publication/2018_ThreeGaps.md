@@ -2,7 +2,7 @@
 title = "Three gaps and what they may mean for risk preference"
 
 # Date first published.
-date = "2018-12-01"
+date = "2018-11-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Ralph Hertwig", "Dirk U. Wulff", "Rui Mata"]
