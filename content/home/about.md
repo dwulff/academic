@@ -31,7 +31,7 @@ weight = 5
 
 +++
 
-# Biography
+# About
 
 I am a researcher at the Center for Cognitive and Decision Science (CDS), University of Basel, Switzerland, and an adjunct researcher at the Center for Adaptive Rationality (ARC), Max Planck Institute for Human Development, Germany.
 
