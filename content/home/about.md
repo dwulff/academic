@@ -8,28 +8,26 @@ date = 2016-04-20T00:00:00
 weight = 5
 
 # List your academic interests.
-#[interests]
-#  interests = [
-#    "Artificial Intelligence",
-#    "Computational Linguistics",
-#    "Information Retrieval"
-#  ]
-#
+[interests]
+  interests = [
+    "Decision Making",
+    "Semantic Memory",
+    "Network Science",
+    "Computational semantics",
+    "Movement control",
+    "Bounded rationality"
+  ]
+
 # List your qualifications (such as academic degrees).
-#[[education.courses]]
-#  course = "PhD in Artificial Intelligence"
-#  institution = "Stanford University"
-#  year = 2012
-#
-#[[education.courses]]
-#  course = "MEng in Artificial Intelligence"
-#  institution = "Massachusetts Institute of Technology"
-#  year = 2009
-#
-#[[education.courses]]
-#  course = "BSc in Artificial Intelligence"
-#  institution = "Massachusetts Institute of Technology"
-#  year = 2008
+[[education.courses]]
+  course = "PhD in Psychology"
+  institution = "University of Basel, Switzerland"
+  year = 2015
+
+[[education.courses]]
+  course = "Dipl.Psych. in Psychology"
+  institution = "University of Marburg, Germany"
+  year = 2010
 
 +++
 
@@ -37,4 +35,4 @@ weight = 5
 
 I am a researcher at the Center for Cognitive and Decision Science (CDS), University of Basel, Switzerland, and an adjunct researcher at the Center for Adaptive Rationality (ARC), Max Planck Institute for Human Development, Germany.
 
-I study in the cognitive underpinnings of human memory and decision making using experiments, computational modeling, network analysis, natural language processing, and process tracing. My broader interests include: bounded rationality, information search, semantic memory, statistical modeling, and movement control.
+I study in the cognitive underpinnings of human memory and decision making using experiments, computational modeling, network analysis, natural language processing, and process tracing. My broader interests include: bounded rationality, information search, semantic memory, , and movement control.
