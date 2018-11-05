@@ -8,6 +8,9 @@ date = 2016-04-20T00:00:00
 title = "Publications"
 subtitle = ""
 
+count = 1
+str_all = "More Publications"
+
 # Order that this section will appear in.
 weight = 20
 
@@ -35,4 +38,7 @@ publication_type = "-1"
 
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
+
+
+
 +++
