@@ -37,6 +37,7 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder.
 [image]
   # Caption (optional)
+  image = "featured.png"
   caption = ""
 
   # Focal point (optional)

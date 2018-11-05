@@ -5,7 +5,7 @@ widget = "publications"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Publications"
+title = "Recent Publications"
 subtitle = ""
 
 str_all = "More Publications"
@@ -14,7 +14,7 @@ str_all = "More Publications"
 weight = 20
 
 # Number of publications to list.
-count = 1
+count = 5
 
 # List format.
 #   0 = Simple
