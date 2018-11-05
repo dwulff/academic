@@ -22,4 +22,4 @@ Das Ziel dieses Seminars mit Übungen ist es die Grundlagen der Netzwerkanalyse 
 ### 18.09. - Termin fällt aus -
 
 ### 25.09. Introduction
-<i class="far fa-file-alt"></i>
+<i class="far fa-file-alt"></i>[Barabasi (2012)](../literature/Barabasi2012NetworkTakeover.pdf)
