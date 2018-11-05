@@ -8,14 +8,13 @@ date = 2016-04-20T00:00:00
 title = "Publications"
 subtitle = ""
 
-count = 1
 str_all = "More Publications"
 
 # Order that this section will appear in.
 weight = 20
 
 # Number of publications to list.
-count = 10
+count = 1
 
 # List format.
 #   0 = Simple
