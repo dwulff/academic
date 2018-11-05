@@ -52,7 +52,7 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
-[[url_custom]]
+[url_custom]
     name = "Journal article"
     url = "pdf/my-paper-name.pdf"
 
