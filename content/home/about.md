@@ -12,8 +12,8 @@ weight = 5
   interests = [
     "Decision Making",
     "Semantic Memory",
-    "Network Science",
     "Computational semantics",
+    "Statistical modeling",
     "Movement control",
     "Bounded rationality"
   ]
@@ -35,4 +35,4 @@ weight = 5
 
 I am a researcher at the Center for Cognitive and Decision Science (CDS), University of Basel, Switzerland, and an adjunct researcher at the Center for Adaptive Rationality (ARC), Max Planck Institute for Human Development, Germany.
 
-I study in the cognitive underpinnings of human memory and decision making using experiments, computational modeling, network analysis, natural language processing, and process tracing. My broader interests include: bounded rationality, information search, semantic memory, , and movement control.
+I study in the cognitive underpinnings of human memory and decision making using experiments, computational modeling, network analysis, natural language processing, and process tracing.
