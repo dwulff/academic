@@ -8,33 +8,33 @@ date = 2016-04-20T00:00:00
 weight = 5
 
 # List your academic interests.
-[interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
-  ]
-
+#[interests]
+#  interests = [
+#    "Artificial Intelligence",
+#    "Computational Linguistics",
+#    "Information Retrieval"
+#  ]
+#
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+#[[education.courses]]
+#  course = "PhD in Artificial Intelligence"
+#  institution = "Stanford University"
+#  year = 2012
+#
+#[[education.courses]]
+#  course = "MEng in Artificial Intelligence"
+#  institution = "Massachusetts Institute of Technology"
+#  year = 2009
+#
+#[[education.courses]]
+#  course = "BSc in Artificial Intelligence"
+#  institution = "Massachusetts Institute of Technology"
+#  year = 2008
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a researcher at the Center for Cognitive and Decision Science (CDS), University of Basel, Switzerland, and an adjunct researcher at the Center for Adaptive Rationality (ARC), Max Planck Institute for Human Development, Germany.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I study in the cognitive underpinnings of human memory and decision making using experiments, computational modeling, network analysis, natural language processing, and process tracing. My broader interests include: bounded rationality, information search, semantic memory, statistical modeling, and movement control.
