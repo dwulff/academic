@@ -52,6 +52,7 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
+url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
