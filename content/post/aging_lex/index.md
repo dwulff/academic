@@ -34,14 +34,22 @@ summary = ""
   preview_only = false
 
 # Set captions for image gallery.
-
-[[gallery_item]]
-album = "gallery"
-image = "theme-coffee-playfair.png"
-caption = "Coffee theme with Playfair font"
-
-[[gallery_item]]
-album = "gallery"
-image = "theme-cupcake.png"
-caption = "Cupcake"
+#
+#[[gallery_item]]
+#album = "gallery"
+#image = "theme-coffee-playfair.png"
+#caption = "Coffee theme with Playfair font"
+#
+#[[gallery_item]]
+#album = "gallery"
+#image = "theme-cupcake.png"
+#caption = "Cupcake"
+[header]
+  image = "https://psychologie.unibas.ch/fileadmin/_processed_/7/f/csm_Group_5d17c4269c.jpg?1529921429"
 +++
+
+The Aging Lexicon Project seeks to understand adult age differences in the development of lexical and semantic knowledge.
+
+Taking place in Basel, June 7-9, 2018, the Symposium on The Aging Lexicon gathered experts in Psychology, Linguistics, Neuroscience, and related fields to discuss open issues concerning the aging lexicon.
+
+Find out more at [Aging Lexicon Symposium](https://aginglexicon.github.io/)
