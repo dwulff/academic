@@ -5,7 +5,7 @@ title = "Modeling valuations from experience: A comment on Ashby and Rakow (2014
 date = "2016-06-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ralph Hertwig", "Thorsten Pachur"]
+authors = ["Dirk U. Wulff", "Thorsten Pachur"]
 
 # Publication type.
 # Legend:
