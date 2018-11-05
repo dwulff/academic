@@ -32,7 +32,7 @@ abstract_short = "In a reanalysis of a published data set on valuations from exp
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

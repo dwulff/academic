@@ -37,4 +37,4 @@ I am a researcher at the [Center for Cognitive and Decision Science](https://psy
 
 I study the cognitive underpinnings of human memory and decision making using experiments, computational modeling, network analysis, natural language processing, and process tracing.
 
-Download my [**CV**]("cv/WulffCVNov2018").
+Download my [**CV**]("cv/WulffCVNov2018.pdf/").
