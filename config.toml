@@ -57,9 +57,9 @@ enableGitInfo = false
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [
-  { name = "University of Basel", url = "https://psychologie.unibas.ch/de/personen/dirk-wulff/" },
-  { name = "MPI for Human Development", url = "https://www.mpib-berlin.mpg.de/en/staff/dirk-wulff" },
-  { name = "The R Bootcamp", url = "https://therbootcamp.github.io/" }
+  { name = "University of Basel", url = "" },
+  { name = "MPI for Human Development", url = "" },
+  { name = "The R Bootcamp", url = "" }
   ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
