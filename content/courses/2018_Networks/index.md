@@ -23,12 +23,13 @@ Das Ziel dieses Seminars mit Übungen ist es die Grundlagen der Netzwerkanalyse 
 
 ### 25.09. Introduction
 <i class="far fa-file-alt"></i> [Barabasi (2012)](../../literature/Barabasi2012NetworkTakeover.pdf)<br>
-<i class="far fa-file-alt"></i> [Watts & Strogatz (1999)](../literature/WattsStrogatz1998CollectiveDynamicsSmallWorld.pdf)
+<i class="far fa-file-alt"></i> [Watts & Strogatz (1999)](../../WattsStrogatz1998CollectiveDynamicsSmallWorld.pdf)
 
 ### 02.10. Introduction to R
 
+<i class="fas fa-desktop"></i>[Intro to R](https://therbootcamp.github.io/BaselRBootcamp_2018July/_sessions/IntroToR/IntroToR.html)<br>
+<i class="fas fa-desktop"></i>[Intro to R](https://therbootcamp.github.io/BaselRBootcamp_2018July/_sessions/Objects/Objects.html)
 
-
-<i class="far fa-file-alt"></i> [Assignment](https://therbootcamp.github.io/BaselRBootcamp_2018July/_sessions/Objects/Objects_practical.html)
+<i class="fas fa-list-ul"></i> [Assignment](https://therbootcamp.github.io/BaselRBootcamp_2018July/_sessions/Objects/Objects_practical.html)
 
 ### 09.10. Networks in R
