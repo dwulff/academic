@@ -16,11 +16,11 @@ weight = 60
 +++
 
 ## Fall 2018
-[Networks in Psychology](https://www.dirkwulff.org/courses/2018_Networks) - this courses teaches students the theoretical and practical basic of networks science with applied examples from psychology including social networks, semantic networks, psychometric networks, and neural networks.
-[What are good decisions?](https://www.dirkwulff.org/courses/2018_Networks)
+[Networks in Psychology](https://www.dirkwulff.org/courses/2018_Networks) - seminar with exercises on the theoretical and practical basic of networks science with applied examples from psychology including social networks, semantic networks, psychometric networks, and neural networks.
+[What are good decisions?](https://www.dirkwulff.org/courses/2018_Networks) - theoretical seminar discussing in historical order foundational texts on the question of rationality and normative decision making.
 
 ## Spring 2019
-Natural language processing
+Natural language processing - seminar with exercises on using the analysis of digitized text for the purposes of psychological discovery and theory testing.
 
 ## R Courses
-[The R Bootcamp](https://therbootcamp.github.io/)
+[The R Bootcamp](https://therbootcamp.github.io/) - extra-curricular R courses introducing academics and professionals to data science and applied machine learning with R.
