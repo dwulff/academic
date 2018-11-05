@@ -35,9 +35,8 @@ url_code = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
-#[header]
-#  image = "casino_wide2.png"
-#  caption = ""
+[image]
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
