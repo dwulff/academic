@@ -58,7 +58,7 @@ enableGitInfo = false
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [
   { name = "University of Basel", url = "https://psychologie.unibas.ch/de/personen/dirk-wulff/" },
-  { name = "MPI for Human Development", url = "https://www.mpib-berlin.mpg.de/en/staff/dirk-wulff" }
+  { name = "MPI for Human Development", url = "https://www.mpib-berlin.mpg.de/en/staff/dirk-wulff" },
   { name = "The R Bootcamp", url = "https://therbootcamp.github.io/" }
   ]
 
