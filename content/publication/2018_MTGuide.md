@@ -1,6 +1,5 @@
 +++
-title = "Mouse-tracking:
-A practical guide to implementation and analysis"
+title = "Mouse-tracking: A practical guide to implementation and analysis"
 
 # Date first published.
 date = "2018-11-01"
