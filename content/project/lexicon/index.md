@@ -6,7 +6,7 @@ title = "Lexicon"
 date = 2018-01-01
 
 # Project summary to display on homepage.
-summary = "Research on semantic representations and their changes across the lifespan."
+summary = "Research on semantic representations and their lifespan development."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
