@@ -15,7 +15,7 @@ weight = 50
 
 +++
 
-<i class="fab fa-python fa-2x"></i> [**manco-dev**](https://github.com/dwulff/manco) - A python-based GUI for semi-<b>man</b>ual spell-<b>co</b>rrection and word processing.
+<i class="fab fa-python fa-2x"></i><br> [**manco-dev**](https://github.com/dwulff/manco) - A python-based GUI for semi-<b>man</b>ual spell-<b>co</b>rrection and word processing.
 
 <i class="fab fa-r-project fa-2x"></i><br> [**memnet**](https://cran.r-project.org/package=memnet) - R package for the analysis and high-performance simulation of risk decision making, including, e.g., models of Cumulative Prospect Theory, Decisions from Experience, Heuristics. [dev](https://github.com/dwulff/memnet), [vignette](https://cran.r-project.org/web/packages/memnet/vignettes/memnet.html)
 
@@ -23,6 +23,6 @@ weight = 50
 
 [**mousetrap**](https://cran.r-project.org/package=mousetrap) - R package for the analysis of mouse movements in computerized experiments, a method becoming increasingly popular in the cognitive sciences. The mousetrap package offers functions for importing, preprocessing, analyzing, aggregating, and visualizing mouse-tracking data. [article](pdf/HaslbeckWulff2018NormClust.pdf), [dev](https://github.com/jmbh/cstab)
 
-[**choicepp-dev**](https://github.com/dwulff/choicepp) - R package for the analysis and high-performance simulation of risk decision making, including, e.g., models of Cumulative Prospect Theory, Decisions from Experience, Heuristics.
+[**choicepp-dev**](https://github.com/dwulff/choicepp) - R development package for the analysis and high-performance simulation of risk decision making, including, e.g., models of Cumulative Prospect Theory, Decisions from Experience, Heuristics.
 
-[**spreadr-dev**](https://github.com/csqsiew/spreadr) - R package for the simulation of the spreading of activation among nodes in a network.
+[**spreadr-dev**](https://github.com/csqsiew/spreadr) - R development package for the simulation of the spreading of activation among nodes in a network.
