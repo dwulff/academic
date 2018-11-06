@@ -37,8 +37,25 @@ Der Frage “Was sind gute Entscheidungen?” nachgehend, beschäftigt sich dies
 <i class="fas fa-question"></i> Was sind gute Entscheidungen nach Ramsey?
 
 09.10. The Neo-Bernoullian approach: Van Neumann & Morgenstern<br>
-<i class="far fa-file-alt"></i> [Van Neumann & Morgenstern (1944)](../../literature/GoodChoices/NeumannMorgenstern1944TheoryOfGamesAndEconomicBehaviour1)
+<i class="far fa-file-alt"></i> [Van Neumann & Morgenstern (1944)](../../literature/GoodChoices/Von NeumannMorgenstern1944TheoryOfGamesAndEconomicBehaviour1-4.pdf)
 
-Was verstehen van Neumann und Morgenstern unter utility, was unter preference (systems)?<br>
+<i class="fas fa-question"></i> Was verstehen van Neumann und Morgenstern unter utility, was unter preference (systems)?<br>
 <i class="fas fa-question"></i> Was sind die Axiome und welche Rolle spielen sie?<br>
 <i class="fas fa-question"></i> Was sind gute Entscheidungen nach van Neumann und Morgenstern?
+
+16.10. Open questions
+
+23.10. - No class -
+
+30.10. Heuristics & Biases<br>
+<i class="far fa-file-alt"></i> [Tversky & Kahnemann (1973)](../../literature/GoodChoices/Tversky&Kahneman1973Heuristics&Biases.pdf)
+
+<i>Materialien</i>
+<a href="{{site.url}}/_Goodchoices/Literature/Tversky&Kahneman1973Heuristics&Biases.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Goodchoices/Literature/McFadden1998RationalityForEconomists.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+
+<i>Fragen</i>
+1. Wer sind Daniel Kahneman, Amos Tversky, & Daniel McFadden?
+2. Was sind Heuristiken, was Biases, und wie hängen Sie zusammen?
+3. Welche Konsequenzen haben Biases für ökonomische Theorie?
+4. Was sind gute Entscheidungen nach Tversky, Kahneman, & McFadden?
