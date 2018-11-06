@@ -57,3 +57,9 @@ Der Frage “Was sind gute Entscheidungen?” nachgehend, beschäftigt sich dies
 <i class="fas fa-question"></i> Was ist eine Money Pump, was ein Dutch book, warum verliert man sicher Geld?
 <i class="fas fa-question"></i> Was ist Coherence, was Correspondence?
 <i class="fas fa-question"></i> Was sind gute Entscheidungen nach Arkes and colleagues?
+
+13.11. Less is more<br>
+<i class="far fa-file-alt"></i> [Gigerenzer & Brighton (2009)](../../literature/GoodChoices/GigerenzerBrighton2009HomoHeuristicus.pdf)<br>
+<i class="fas fa-question"></i> Warum ist less more, bzw. was ist das Bias-Variance-dilemma?
+<i class="fas fa-question"></i> Was sind Heuristiken, welche gibt es und wann funktionieren sie gut?
+<i class="fas fa-question"></i> Was sind gute Entscheidungen nach Gigerenzer & Brighton?
