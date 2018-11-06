@@ -6,7 +6,7 @@ title = "Tools"
 date = 2018-01-01
 
 # Project summary to display on homepage.
-summary = "Methods for studying human cognition"
+summary = "Methods for studying and modeling human cognition"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
