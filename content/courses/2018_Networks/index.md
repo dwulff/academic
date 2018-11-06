@@ -19,33 +19,29 @@ Das Ziel dieses Seminars mit Übungen ist es die Grundlagen der Netzwerkanalyse 
 
 ## Semesterplan
 
-### 18.09. - Termin fällt aus -
+18.09. - Termin fällt aus -
 
-### 25.09. Introduction
+25.09. Introduction
 <i class="far fa-file-alt"></i> [Barabasi (2012)](../../literature/Barabasi2012NetworkTakeover.pdf)<br>
 <i class="far fa-file-alt"></i> [Watts & Strogatz (1999)](../../WattsStrogatz1998CollectiveDynamicsSmallWorld.pdf)
 
-### 02.10. Introduction to R
-
+02.10. Introduction to R
 <i class="fas fa-desktop fa-sm"></i> [Intro to R](https://therbootcamp.github.io/BaselRBootcamp_2018July/_sessions/IntroToR/IntroToR.html)<br>
 <i class="fas fa-desktop fa-sm"></i> [Objects](https://therbootcamp.github.io/BaselRBootcamp_2018July/_sessions/Objects/Objects.html)<br>
 <i class="fas fa-list-ul fa-sm"></i> [Assignment](https://therbootcamp.github.io/BaselRBootcamp_2018July/_sessions/Objects/Objects_practical.html)<br>
 <i class="fas fa-file-upload"></i> [Upload](https://docs.google.com/forms/d/e/1FAIpQLSdTK6me2AtgwV-0pept3wNkv_zZ8pljYUZjmWHOS-eeuzXqBw/viewform?usp=sf_link)
 
-### 09.10. Networks in R
-
+09.10. Networks in R
 <i class="fas fa-list-ul fa-sm  fa-sm"></i> [Assignment](assignments/watts_strogatz.html)<br>
 <i class="fas fa-file-upload"></i> [Upload](https://docs.google.com/forms/d/e/1FAIpQLScCp4c14J7Ii2KhVe9SEG7Lm72-oYtwqNn9PsBIboZIkmjuaw/viewform?usp=sf_link)
 
 16.10. Back to Watts & Strogatz
-
 <i class="fas fa-list-ul fa-sm  fa-sm"></i> [Assignment](assignments/watts_strogatz_pt2.html)<br>
 <i class="fas fa-file-upload"></i> [Upload](https://docs.google.com/forms/d/e/1FAIpQLScydGyIBzQYAoEKNIUaMWyCI2svqK1kIeZoItGThE5LsWF3kw/viewform?usp=sf_link)
 
 23.10. - Termin fällt aus -
 
 30.10. Social networks
-
 <i class="far fa-file-alt"></i> [Milgram (1967)](../../literature/Milgram1967SmallWorldProblem.pdf)<br>
 <i class="far fa-file-alt"></i> [Dodss et al. (2003)](../../literature/DoddsEtAl2003SmallWorldByEmail.pdf)<br>
 <i class="fas fa-list-ul fa-sm  fa-sm"></i> [Assignment](https://docs.google.com/forms/d/e/1FAIpQLSdljPsCQIz5Aqh5PTO2xsstpEygAi6yQqof7Od3Ghj0Bv4ryw/viewform?usp=sf_link)
