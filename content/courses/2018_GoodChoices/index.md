@@ -48,14 +48,10 @@ Der Frage “Was sind gute Entscheidungen?” nachgehend, beschäftigt sich dies
 23.10. - No class -
 
 30.10. Heuristics & Biases<br>
-<i class="far fa-file-alt"></i> [Tversky & Kahnemann (1973)](../../literature/GoodChoices/Tversky&Kahneman1973Heuristics&Biases.pdf)
-
-<i>Materialien</i>
-<a href="{{site.url}}/_Goodchoices/Literature/Tversky&Kahneman1973Heuristics&Biases.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
-<a href="{{site.url}}/_Goodchoices/Literature/McFadden1998RationalityForEconomists.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<i class="far fa-file-alt"></i> [Tversky & Kahnemann (1973)](../../literature/GoodChoices/Tversky&Kahneman1973Heuristics&Biases.pdf)<br>
+<i class="far fa-file-alt"></i> [McFadden (1998)](../../literature/GoodChoices/McFadden1998RationalityForEconomists.pdf)<br>
 
 <i>Fragen</i>
-1. Wer sind Daniel Kahneman, Amos Tversky, & Daniel McFadden?
-2. Was sind Heuristiken, was Biases, und wie hängen Sie zusammen?
-3. Welche Konsequenzen haben Biases für ökonomische Theorie?
-4. Was sind gute Entscheidungen nach Tversky, Kahneman, & McFadden?
+<i class="fas fa-question"></i> Was sind Heuristiken, was Biases, und wie hängen Sie zusammen?
+<i class="fas fa-question"></i> Welche Konsequenzen haben Biases für ökonomische Theorie?
+<i class="fas fa-question"></i> Was sind gute Entscheidungen nach Tversky, Kahneman, & McFadden?
