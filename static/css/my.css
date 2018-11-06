@@ -1,5 +1,9 @@
+.btn-outline-primary {
+
+}
+
 a,
-h3.article-title a:hover {
+h3.article-title a:hover .btn-outline-primary {
   color: #0095eb;
   text-decoration: none;
   transition: color 0.6s ease;
