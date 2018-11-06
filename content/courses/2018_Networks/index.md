@@ -32,11 +32,11 @@ Das Ziel dieses Seminars mit Übungen ist es die Grundlagen der Netzwerkanalyse 
 <i class="fas fa-file-upload"></i> [Upload](https://docs.google.com/forms/d/e/1FAIpQLSdTK6me2AtgwV-0pept3wNkv_zZ8pljYUZjmWHOS-eeuzXqBw/viewform?usp=sf_link)
 
 09.10. Networks in R<br>
-<i class="fas fa-list-ul fa-sm  fa-sm"></i> [Assignment](assignments/watts_strogatz.pdf)<br>
+<i class="fas fa-list-ul fa-sm"></i> [Assignment](assignments/watts_strogatz.pdf)<br>
 <i class="fas fa-file-upload"></i> [Upload](https://docs.google.com/forms/d/e/1FAIpQLScCp4c14J7Ii2KhVe9SEG7Lm72-oYtwqNn9PsBIboZIkmjuaw/viewform?usp=sf_link)
 
 16.10. Back to Watts & Strogatz<br>
-<i class="fas fa-list-ul fa-sm  fa-sm"></i> [Assignment](assignments/watts_strogatz_pt2.pdf)<br>
+<i class="fas fa-list-ul fa-sm"></i> [Assignment](assignments/watts_strogatz_pt2.pdf)<br>
 <i class="fas fa-file-upload"></i> [Upload](https://docs.google.com/forms/d/e/1FAIpQLScydGyIBzQYAoEKNIUaMWyCI2svqK1kIeZoItGThE5LsWF3kw/viewform?usp=sf_link)
 
 23.10. - No class -
@@ -47,4 +47,4 @@ Das Ziel dieses Seminars mit Übungen ist es die Grundlagen der Netzwerkanalyse 
 <i class="fas fa-list-ul fa-sm  fa-sm"></i> [Assignment](https://docs.google.com/forms/d/e/1FAIpQLSdljPsCQIz5Aqh5PTO2xsstpEygAi6yQqof7Od3Ghj0Bv4ryw/viewform?usp=sf_link)
 
 06.11. Social networks pt. 2<br>
-<i class="fas fa-database"></i> [Responses](data/psychonet_responses.RDS)
+<i class="fas fa-database fa-sm"></i> [Responses](data/psychonet_responses.RDS)
