@@ -19,26 +19,26 @@ Der Frage “Was sind gute Entscheidungen?” nachgehend, beschäftigt sich dies
 
 ## Semesterplan
 
-#18.09. - No class -
+18.09. - No class -
 
 25.09.  The Beginnings - Pascal, Fermat, and Bernoulli<br>
 <i class="far fa-file-alt"></i> [Fermat & Pascal (1654)](../../literature/GoodChoices/fermatpascal.pdf)<br>
 <i class="far fa-file-alt"></i> [Bernoulli (1738)](../../literature/GoodChoices/Bernoulli_1954_Exposition.pdf)<br>
-<i class="fas fa-question"></i> *Was sind gute Entscheidungen nach Fermat und Pascal?*<br>
-<i class="fas fa-question"></i> *Was ist das St. Petersburg paradox und wie löst es Bernoulli?*<br>
-<i class="fas fa-question"></i> *Was sind gute Entscheidungen nach Bernoulli?*
+<i class="fas fa-question fa-sm"></i> *Was sind gute Entscheidungen nach Fermat und Pascal?*<br>
+<i class="fas fa-question fa-sm"></i> *Was ist das St. Petersburg paradox und wie löst es Bernoulli?*<br>
+<i class="fas fa-question fa-sm"></i> *Was sind gute Entscheidungen nach Bernoulli?*
 
 02.10. The Beginnings - Ramsey<br>
 <i class="far fa-file-alt"></i> [Ramsay (1926)](../../literature/GoodChoices/Ramsey1926Truth&Probability_short.pdf)<br>
-<i class="fas fa-question"></i> Was umfasst Ramsey's Begriff des <i>beliefs</i>?<br>
-<i class="fas fa-question"></i> Was ist die logic of consistency, was die logic of truth?<br>
-<i class="fas fa-question"></i> Was sind gute Entscheidungen nach Ramsey?
+<i class="fas fa-question fa-sm"></i> *Was umfasst Ramsey's Begriff des <i>beliefs</i>?*<br>
+<i class="fas fa-question fa-sm"></i> *Was ist die logic of consistency, was die logic of truth?*<br>
+<i class="fas fa-question fa-sm"></i> *Was sind gute Entscheidungen nach Ramsey?*
 
 09.10. The Neo-Bernoullian approach: Van Neumann & Morgenstern<br>
 <i class="far fa-file-alt"></i> [Van Neumann & Morgenstern (1944)](../../literature/GoodChoices/Von NeumannMorgenstern1944TheoryOfGamesAndEconomicBehaviour1-4.pdf)<br>
-<i class="fas fa-question"></i> Was verstehen van Neumann und Morgenstern unter utility, was unter preference (systems)?<br>
-<i class="fas fa-question"></i> Was sind die Axiome und welche Rolle spielen sie?<br>
-<i class="fas fa-question"></i> Was sind gute Entscheidungen nach van Neumann und Morgenstern?
+<i class="fas fa-question fa-sm"></i> *Was verstehen van Neumann und Morgenstern unter utility, was unter preference (systems)?*<br>
+<i class="fas fa-question fa-sm"></i> *Was sind die Axiome und welche Rolle spielen sie?*<br>
+<i class="fas fa-question fa-sm"></i> *Was sind gute Entscheidungen nach van Neumann und Morgenstern?*
 
 16.10. Open questions
 
@@ -47,19 +47,19 @@ Der Frage “Was sind gute Entscheidungen?” nachgehend, beschäftigt sich dies
 30.10. Heuristics & Biases<br>
 <i class="far fa-file-alt"></i> [Tversky & Kahnemann (1973)](../../literature/GoodChoices/Tversky&Kahneman1973Heuristics&Biases.pdf)<br>
 <i class="far fa-file-alt"></i> [McFadden (1998)](../../literature/GoodChoices/McFadden1998RationalityForEconomists.pdf)<br>
-<i class="fas fa-question"></i> Was sind Heuristiken, was Biases, und wie hängen Sie zusammen?<br>
-<i class="fas fa-question"></i> Welche Konsequenzen haben Biases für ökonomische Theorie?<br>
-<i class="fas fa-question"></i> Was sind gute Entscheidungen nach Tversky, Kahneman, & McFadden?
+<i class="fas fa-question fa-sm"></i> *Was sind Heuristiken, was Biases, und wie hängen Sie zusammen?*<br>
+<i class="fas fa-question fa-sm"></i> *Welche Konsequenzen haben Biases für ökonomische Theorie?*<br>
+<i class="fas fa-question fa-sm"></i> *Was sind gute Entscheidungen nach Tversky, Kahneman, & McFadden?*
 
 06.11. Another view<br>
 <i class="far fa-file-alt"></i> [Arkes et al., (2016)](../../literature/GoodChoices/ArkesEtal2016HowBadIsIncoherence.pdf)<br>
 <i class="far fa-file-alt"></i> [Jackson & Bargetta (1975)](../../literature/GoodChoices/JacksonBargetta1975DutchBook.pdf)<br>
-<i class="fas fa-question"></i> Was ist eine Money Pump, was ein Dutch book, warum verliert man sicher Geld?
-<i class="fas fa-question"></i> Was ist Coherence, was Correspondence?
-<i class="fas fa-question"></i> Was sind gute Entscheidungen nach Arkes and colleagues?
+<i class="fas fa-question fa-sm"></i> *Was ist eine Money Pump, was ein Dutch book, warum verliert man sicher Geld?*<br>
+<i class="fas fa-question fa-sm"></i> *Was ist Coherence, was Correspondence?*<br>
+<i class="fas fa-question fa-sm"></i> *Was sind gute Entscheidungen nach Arkes and colleagues?*
 
 13.11. Less is more<br>
 <i class="far fa-file-alt"></i> [Gigerenzer & Brighton (2009)](../../literature/GoodChoices/GigerenzerBrighton2009HomoHeuristicus.pdf)<br>
-<i class="fas fa-question"></i> Warum ist less more, bzw. was ist das Bias-Variance-dilemma?
-<i class="fas fa-question"></i> Was sind Heuristiken, welche gibt es und wann funktionieren sie gut?
-<i class="fas fa-question"></i> Was sind gute Entscheidungen nach Gigerenzer & Brighton?
+<i class="fas fa-question fa-sm"></i> *Warum ist less more, bzw. was ist das Bias-Variance-dilemma?*<br>
+<i class="fas fa-question fa-sm"></i> *Was sind Heuristiken, welche gibt es und wann funktionieren sie gut?*<br>
+<i class="fas fa-question fa-sm"></i> *Was sind gute Entscheidungen nach Gigerenzer & Brighton?*
