@@ -18,7 +18,7 @@ weight = 60
 ## Fall 2018
 [Networks in Psychology](../courses/2018_Networks) - seminar with exercises on the theoretical and practical basic of networks science with applied examples from psychology including social networks, semantic networks, psychometric networks, and neural networks.
 
-[What are good decisions?](../courses/2018_Networks) - theoretical seminar discussing in historical order foundational texts on the question of rationality and normative decision making.
+[What are good decisions?](../courses/2018_GoodChoices) - theoretical seminar discussing in historical order foundational texts on the question of rationality and normative decision making.
 
 ## Spring 2019
 Natural language processing - seminar with exercises on using the analysis of digitized text for the purposes of psychological discovery and theory testing.
