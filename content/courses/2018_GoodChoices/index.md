@@ -1,5 +1,5 @@
 +++
-title = "Networks in Psychology"
+title = "What are Good Decisions?"
 
 [header]
 image = ""
@@ -11,15 +11,15 @@ caption = ""
 
 
 
-Seminar, Dienstag, 16.15-17.45, Seminarraum 11
+Seminar, Dienstag, 14.15-15.45, Seminarraum 11
 
 ## Seminarablauf
 
-Das Ziel dieses Seminars mit Übungen ist es die Grundlagen der Netzwerkanalyse im Kontext psychologischer Fragestellungen kennenzulernen und mittels der Programmiersprache R umzusetzen. Die einzelnen Sitzungen bestehen hierzu variabel aus der Besprechung vorbereiteter Artikel, kurzen Vorträgen, und der Bearbeitung der Übungen. Die Seminarleistung wird erbracht abgesehen von der fristgerechten Einreichung der einzelnen Übungen durch entweder das Bestehende der Klausur am Ende des Seminars oder einer 5-seitigen Forschungsarbeit erbracht. Die Anwesenheit wird nicht überprüft.
+Der Frage “Was sind gute Entscheidungen?” nachgehend, beschäftigt sich dieses Seminar mit der philosophischen, ökonomischen und psychologischen Literatur zum Thema Rationalität. In jeder Sitzung werden hierzu jeweils ein oder zwei Zeitschriftenartikel (oder Buchkapitel) besprochen. Zur Vorbereitung lesen die Teilnehmer vor der nächsten Sitzung die Literatur und analysieren sie hinsichtlich 3-5 zentraler Fragen. Zu Beginn jeder Sitzung werden die Teilnehmer zufällig in Kleingruppen aufgeteilt, die in den ersten 45min der Sitzung jeweils eine der Fragen besprechen und für die anderen Teilnehmer aufbereiten. In den zweiten 45min stellen die Teilnehmer die aufgearbeiteten Inhalten in einer Kurzpräsentation von 5-10min Länge (max. 2-3 Folien) vor. Die Seminarleistung wird durch das Bestehen einer Klausur am des Seminars erbracht. Die Teilnahme wird nicht überprüft.
 
 ## Semesterplan
 
-18.09. - No class -
+18.09. - Termin fällt aus -
 
 25.09. Introduction<br>
 <i class="far fa-file-alt"></i> [Barabasi (2012)](../../literature/Barabasi2012NetworkTakeover.pdf)<br>
@@ -39,7 +39,7 @@ Das Ziel dieses Seminars mit Übungen ist es die Grundlagen der Netzwerkanalyse 
 <i class="fas fa-list-ul fa-sm  fa-sm"></i> [Assignment](assignments/watts_strogatz_pt2.html)<br>
 <i class="fas fa-file-upload"></i> [Upload](https://docs.google.com/forms/d/e/1FAIpQLScydGyIBzQYAoEKNIUaMWyCI2svqK1kIeZoItGThE5LsWF3kw/viewform?usp=sf_link)
 
-23.10. - No class -
+23.10. - Termin fällt aus -
 
 30.10. Social networks<br>
 <i class="far fa-file-alt"></i> [Milgram (1967)](../../literature/Milgram1967SmallWorldProblem.pdf)<br>
