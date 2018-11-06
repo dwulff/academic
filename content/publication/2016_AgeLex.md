@@ -5,7 +5,7 @@ title = "The Aging Lexicon: Differences in the Semantic Networks of Younger and 
 date = "2016-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Dirk U. Wulff", "Thomas T. Hills", "Margie E. Lachman" "Rui Mata"]
+authors = ["Dirk U. Wulff", "Thomas T. Hills", "Margie E. Lachman", "Rui Mata"]
 
 # Publication type.
 # Legend:
