@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Experience this is a longe title"
+title = "Experience"
 
 # Date this page was created.
 date = 2018-01-01
@@ -36,9 +36,9 @@ url_code = ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
 [image]
-  caption = "This is a caption"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  #focal_point = "Top"
+  focal_point = "Center"
 +++
