@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Experience"
+title = "Lexicon"
 
 # Date this page was created.
 date = 2018-01-01
 
 # Project summary to display on homepage.
-summary = "Research on the role of learning in decision making and risk preference"
+summary = "Research on semantic representations and their changes across the lifespan."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
