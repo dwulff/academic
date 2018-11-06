@@ -28,7 +28,14 @@ Das Ziel dieses Seminars mit Übungen ist es die Grundlagen der Netzwerkanalyse 
 ### 02.10. Introduction to R
 
 <i class="fas fa-desktop fa-sm"></i> [Intro to R](https://therbootcamp.github.io/BaselRBootcamp_2018July/_sessions/IntroToR/IntroToR.html)<br>
-<i class="fas fa-desktop"></i> [Objects](https://therbootcamp.github.io/BaselRBootcamp_2018July/_sessions/Objects/Objects.html)<br>
+<i class="fas fa-desktop fa-sm"></i> [Objects](https://therbootcamp.github.io/BaselRBootcamp_2018July/_sessions/Objects/Objects.html)<br>
 <i class="fas fa-list-ul fa-sm"></i> [Assignment](https://therbootcamp.github.io/BaselRBootcamp_2018July/_sessions/Objects/Objects_practical.html)
 
 ### 09.10. Networks in R
+
+<i class="fas fa-list-ul fa-sm  fa-sm"></i> [Assignment](assignments/watts_strogatz.html)
+
+<i class="fas fa-file-upload"></i> [Upload](https://docs.google.com/forms/d/e/1FAIpQLScCp4c14J7Ii2KhVe9SEG7Lm72-oYtwqNn9PsBIboZIkmjuaw/viewform?usp=sf_link)
+
+<i>Upload</i>
+<a href="/u2_networks/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a>
