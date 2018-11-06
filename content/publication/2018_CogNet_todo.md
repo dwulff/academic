@@ -1,11 +1,11 @@
 +++
-title = "Three gaps and what they may mean for risk preference"
+title = "Cognitive Network Science: A review of research on cognition through the lens of network representations, processes, and dynamics"
 
 # Date first published.
 date = "2018-11-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ralph Hertwig", "Dirk U. Wulff", "Rui Mata"]
+authors = ["Cynthia S. Q. Siew", "Dirk U. Wulff", "Nicole M. Beckage", "Yoed N. Kenett"]
 
 # Publication type.
 # Legend:
@@ -16,23 +16,23 @@ authors = ["Ralph Hertwig", "Dirk U. Wulff", "Rui Mata"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Philosophical Transactions of the Royal Society B: Biological Sciences*"
-publication_short = "In *Philosophical Transactions of the Royal Society B*"
+publication = "In *PsyArXiv*"
+publication_short = "In *PsyArXiv*"
 
 # Abstract and optional shortened version.
-abstract = "Risk preference is one of the most important building blocks of choice theories in the behavioural sciences. In economics, it is often conceptualised as preferences concerning variance of monetary payoffs, whereas in psychology risk preference is often thought to capture the propensity to engage in behaviour with the potential for loss or harm. Both concepts are associated with distinct measurement traditions: Economics has traditionally relied on behavioural measures, while psychology has often relied on self-reports. We review three important gaps that have emerged from work stemming from these two measurement traditions: First, a description–experience gap which suggests that behavioural measures do not speak with one voice and can give very different views on an individual’s appetite for risk; second, a behaviour–self-report gap which suggests that different self-report measures, but not behavioural measures, show a high degree of convergent validity; and, third, a temporal stability gap which suggests that self-reports, but not behavioural measures, show considerable temporal stability across periods of years. Risk preference, when measured through self-reported preferences—but not behavioural preferences—appears as a moderately stable psychological trait with both general and domain-specific components. We argue that future work needs to address the gaps which have emerged from the two measurement traditions and test their differential predictive validity for important economic, health and wellbeing outcomes."
+abstract = "Network science provides a set of quantitative methods to investigate complex systems, including human cognition. Although cognitive theories in different domains are strongly based on a network perspective, the application of network science methodologies to quantitatively study cognition has so far been limited in scope. This review demonstrates how network science approaches have been applied in the study of human cognition, and how it can uniquely address and provide novel insight on important questions related to the complexity of cognitive systems and the processes that occur within those systems. Drawing on the literature in cognitive network science with a focus on semantic and language networks, we argue three key points. (i) Network science provides a powerful quantitative approach to represent cognitive systems. (ii) The network science framework enables cognitive scientists to achieve a deeper understanding of human cognition by capturing how the structure, i.e., the underlying network, and processes operating on a network structure, interact to produce behavioral phenomena. (iii) Network science provides a quantitative framework to model the dynamics of cognitive systems, operationalized as structural changes in cognitive systems that can occur on multiple timescales and resolutions. Finally, we highlight key milestones that the field of cognitive network science needs to achieve in the future as it matures in order to provide continued insights into the nature of cognitive structures and processes."
 
-abstract_short = "We review three important gaps that have emerged from work stemming from these two measurement traditions: The description–experience gap, the behaviour–self-report gap, and the temporal stability gap. We argue that future work needs to address these gaps and test their differential predictive validity for important economic, health and wellbeing outcomes."
+abstract_short = "This review demonstrates how network science approaches have been applied in the study of human cognition, and how it can uniquely address and provide novel insight on important questions related to the complexity of cognitive systems and the processes that occur within those systems."
 
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -51,7 +51,7 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
-url_custom = [{name = "Preprint", url = "pdf/HertwigWulffMata2018PhilTransRoyalSocB"}]
+url_custom = [{name = "Preprint", url = "pdf/SiewEtAl2018CogNet.pdf"}]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
