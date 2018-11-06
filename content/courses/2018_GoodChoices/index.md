@@ -19,11 +19,15 @@ Der Frage “Was sind gute Entscheidungen?” nachgehend, beschäftigt sich dies
 
 ## Semesterplan
 
-18.09. - Termin fällt aus -
+18.09. - No class -
 
-25.09. Introduction<br>
-<i class="far fa-file-alt"></i> [Barabasi (2012)](../../literature/Barabasi2012NetworkTakeover.pdf)<br>
-<i class="far fa-file-alt"></i> [Watts & Strogatz (1999)](../../WattsStrogatz1998CollectiveDynamicsSmallWorld.pdf)
+25.09.  The Beginnings - Pascal, Fermat, and Bernoulli<br>
+<i class="far fa-file-alt"></i> [Fermat & Pascal (1654)](../../literature/GoodChoices/fermatpascal.pdf)<br>
+<i class="far fa-file-alt"></i> [Bernoulli (1738)](../../literature/GoodChoices/Bernoulli_1954_Exposition.pdf)<br>
+
+<i class="fas fa-question"></i> Was sind gute Entscheidungen nach Fermat und Pascal?
+<i class="fas fa-question"></i> Was ist das St. Petersburg paradox und wie löst es Bernoulli?
+<i class="fas fa-question"></i> Was sind gute Entscheidungen nach Bernoulli?
 
 02.10. Introduction to R<br>
 <i class="fas fa-desktop fa-sm"></i> [Intro to R](https://therbootcamp.github.io/BaselRBootcamp_2018July/_sessions/IntroToR/IntroToR.html)<br>
