@@ -22,8 +22,8 @@ Das Ziel dieses Seminars mit Übungen ist es die Grundlagen der Netzwerkanalyse 
 18.09. - No class -
 
 25.09. Introduction<br>
-<i class="far fa-file-alt"></i> [Barabasi (2012)](../../literature/Barabasi2012NetworkTakeover.pdf)<br>
-<i class="far fa-file-alt"></i> [Watts & Strogatz (1999)](../../WattsStrogatz1998CollectiveDynamicsSmallWorld.pdf)
+<i class="far fa-file-alt"></i> [Barabasi (2012)](../../literature/Networks/Barabasi2012NetworkTakeover.pdf)<br>
+<i class="far fa-file-alt"></i> [Watts & Strogatz (1999)](../../literature/Networks/WattsStrogatz1998CollectiveDynamicsSmallWorld.pdf)
 
 02.10. Introduction to R<br>
 <i class="fas fa-desktop fa-sm"></i> [Intro to R](https://therbootcamp.github.io/BaselRBootcamp_2018July/_sessions/IntroToR/IntroToR.html)<br>
@@ -42,6 +42,6 @@ Das Ziel dieses Seminars mit Übungen ist es die Grundlagen der Netzwerkanalyse 
 23.10. - No class -
 
 30.10. Social networks<br>
-<i class="far fa-file-alt"></i> [Milgram (1967)](../../literature/Milgram1967SmallWorldProblem.pdf)<br>
-<i class="far fa-file-alt"></i> [Dodds et al. (2003)](../../literature/DoddsEtAl2003SmallWorldByEmail.pdf)<br>
+<i class="far fa-file-alt"></i> [Milgram (1967)](../../literature/Networks/Milgram1967SmallWorldProblem.pdf)<br>
+<i class="far fa-file-alt"></i> [Dodds et al. (2003)](../../literature/Networks/DoddsEtAl2003SmallWorldByEmail.pdf)<br>
 <i class="fas fa-list-ul fa-sm  fa-sm"></i> [Assignment](https://docs.google.com/forms/d/e/1FAIpQLSdljPsCQIz5Aqh5PTO2xsstpEygAi6yQqof7Od3Ghj0Bv4ryw/viewform?usp=sf_link)
