@@ -29,7 +29,7 @@ Der Frage “Was sind gute Entscheidungen?” nachgehend, beschäftigt sich dies
 <i class="fas fa-question"></i> Was sind gute Entscheidungen nach Bernoulli?
 
 02.10. The Beginnings - Ramsey<br>
-<i class="far fa-file-alt"></i> [Ramsay (1926)](../../literature/GoodChoices/Ramsey1926Truth.pdf)<br>
+<i class="far fa-file-alt"></i> [Ramsay (1926)](../../literature/GoodChoices/Ramsey1926Truth&Probability_short.pdf)<br>
 <i class="fas fa-question"></i> Was umfasst Ramsey's Begriff des <i>beliefs</i>?<br>
 <i class="fas fa-question"></i> Was ist die logic of consistency, was die logic of truth?<br>
 <i class="fas fa-question"></i> Was sind gute Entscheidungen nach Ramsey?
