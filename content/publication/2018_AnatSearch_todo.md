@@ -51,7 +51,7 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
-url_custom = [{name = "Preprint", url = "pdf/HertwigWulffMata2018PhilTransRoyalSocB.pdf"}]
+url_custom = [{name = "Preprint", url = "pdf/HertwigWulffMata2018PhilTransRoyalSocB"}]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -66,7 +66,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "casino_wide2.png"
+image = "tools1_wide.png"
 caption = ""
 
 +++

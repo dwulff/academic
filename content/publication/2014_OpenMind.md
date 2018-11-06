@@ -19,8 +19,8 @@ authors = ["Wouter van den Bos", "Mirjam Jenny", "Dirk U. Wulff"]
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Philosophical Transactions of the Royal Society B: Biological Sciences*"
-publication_short = "In *Philosophical Transactions of the Royal Society B*"
+publication = "In *Issues in Open Research Data*"
+publication_short = "In *Issues in Open Research Data*"
 
 # Abstract and optional shortened version.
 abstract = "In this chapter, we aim to make a case for the need of a common data sharing policy for psychological science, discuss what such a policy should address, and hope to make some practical suggestions along the way. First, we summarize the reasons for open data and what the advantages could be specifically for psychological science. Next, we will address in more detail what it means for data to be truly open, as well as some concerns about open data. Finally, we discuss how we could move toward a more open minded psychology."
@@ -51,7 +51,7 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
-url_custom = [{name = "Journal article", url = "pdf/WulffPachur2016Modeling valuations from experience.pdf"}]
+url_custom = [{name = "Book chapter", url = "pdf/WulffPachur2016Modeling valuations from experience.pdf"}]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -66,7 +66,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "casino_wide2.png"
+image = "tools1_wide.png"
 caption = ""
 
 +++

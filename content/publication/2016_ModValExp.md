@@ -19,8 +19,8 @@ authors = ["Dirk U. Wulff", "Thorsten Pachur"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Philosophical Transactions of the Royal Society B: Biological Sciences*"
-publication_short = "In *Philosophical Transactions of the Royal Society B*"
+publication = "In *Journal of Experimental Psychology: Learning, Memory and Cognition*"
+publication_short = "In *Journal of Experimental Psychology: Learning, Memory and Cognition*"
 
 # Abstract and optional shortened version.
 abstract = "What are the cognitive mechanisms underlying subjective valuations formed on the basis of sequential experiences of an option’s possible outcomes? Ashby and Rakow (2014) have proposed a sliding window model (SWIM), according to which people’s valuations represent the average of a limited sample of recent experiences (the size of which is estimated by the model) formed after sampling has been terminated (i.e., an end-of-sequence process). Ashby and Rakow presented results from which they concluded, on the basis of model-selection criteria, that the SWIM performs well compared with alternative models (e.g., value-updating model, summary model). Further, they reported that the individual window sizes estimated by the SWIM correlated with a measure of working-memory capacity. In a reanalysis of the Ashby and Rakow data, we find no clear evidence in support of any of the models tested, and a slight advantage for the summary model. Further, we demonstrate that individual differences in the window-size estimated by the SWIM can reflect differences in noise. In computer simulations, we examine the more general question of how well the models tested by Ashby and Rakow can actually be discriminated. The results reveal that the models’ ability to fit data depends on a complex interplay of noise and the sample size of outcomes on which a valuation response is based. This can critically influence model performance and conclusions regarding the underlying cognitive mechanisms. We discuss the implications of these findings and suggest ways of improving model comparisons in valuations from experience."
