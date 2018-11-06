@@ -29,7 +29,7 @@ Das Ziel dieses Seminars mit Übungen ist es die Grundlagen der Netzwerkanalyse 
 <i class="fas fa-desktop fa-sm"></i> [Intro to R](https://therbootcamp.github.io/BaselRBootcamp_2018July/_sessions/IntroToR/IntroToR.html)<br>
 <i class="fas fa-desktop fa-sm"></i> [Objects](https://therbootcamp.github.io/BaselRBootcamp_2018July/_sessions/Objects/Objects.html)<br>
 <i class="fas fa-list-ul fa-sm"></i> [Assignment](https://therbootcamp.github.io/BaselRBootcamp_2018July/_sessions/Objects/Objects_practical.html)<br>
-<i class="fas fa-file-upload"></i> [Upload](https://docs.google.com/forms/d/e/1FAIpQLSdTK6me2AtgwV-0pept3wNkv_zZ8pljYUZjmWHOS-eeuzXqBw/viewform?usp=sf_link)
+<i class="fas fa-file-upload fa-sm"></i> [Upload](https://docs.google.com/forms/d/e/1FAIpQLSdTK6me2AtgwV-0pept3wNkv_zZ8pljYUZjmWHOS-eeuzXqBw/viewform?usp=sf_link)
 
 09.10. Networks in R<br>
 <i class="fas fa-list-ul fa-sm"></i> [Assignment](assignments/watts_strogatz.pdf)<br>
@@ -37,7 +37,7 @@ Das Ziel dieses Seminars mit Übungen ist es die Grundlagen der Netzwerkanalyse 
 
 16.10. Back to Watts & Strogatz<br>
 <i class="fas fa-list-ul fa-sm"></i> [Assignment](assignments/watts_strogatz_pt2.pdf)<br>
-<i class="fas fa-file-upload"></i> [Upload](https://docs.google.com/forms/d/e/1FAIpQLScydGyIBzQYAoEKNIUaMWyCI2svqK1kIeZoItGThE5LsWF3kw/viewform?usp=sf_link)
+<i class="fas fa-file-upload fa-sm"></i> [Upload](https://docs.google.com/forms/d/e/1FAIpQLScydGyIBzQYAoEKNIUaMWyCI2svqK1kIeZoItGThE5LsWF3kw/viewform?usp=sf_link)
 
 23.10. - No class -
 
