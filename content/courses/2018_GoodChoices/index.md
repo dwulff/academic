@@ -25,13 +25,20 @@ Der Frage “Was sind gute Entscheidungen?” nachgehend, beschäftigt sich dies
 <i class="far fa-file-alt"></i> [Fermat & Pascal (1654)](../../literature/GoodChoices/fermatpascal.pdf)<br>
 <i class="far fa-file-alt"></i> [Bernoulli (1738)](../../literature/GoodChoices/Bernoulli_1954_Exposition.pdf)<br>
 
-<i class="fas fa-question"></i> Was sind gute Entscheidungen nach Fermat und Pascal?
-<i class="fas fa-question"></i> Was ist das St. Petersburg paradox und wie löst es Bernoulli?
+<i class="fas fa-question"></i> Was sind gute Entscheidungen nach Fermat und Pascal?<br>
+<i class="fas fa-question"></i> Was ist das St. Petersburg paradox und wie löst es Bernoulli?<br>
 <i class="fas fa-question"></i> Was sind gute Entscheidungen nach Bernoulli?
 
 02.10. The Beginnings - Ramsey<br>
 <i class="far fa-file-alt"></i> [Ramsay (1926)](../../literature/GoodChoices/Ramsey1926Truth.pdf)
 
-<i class="fas fa-question"></i> Was umfasst Ramsey's Begriff des <i>beliefs</i>?
-<i class="fas fa-question"></i> Was ist die logic of consistency, was die logic of truth?
+<i class="fas fa-question"></i> Was umfasst Ramsey's Begriff des <i>beliefs</i>?<br>
+<i class="fas fa-question"></i> Was ist die logic of consistency, was die logic of truth?<br>
 <i class="fas fa-question"></i> Was sind gute Entscheidungen nach Ramsey?
+
+09.10. The Neo-Bernoullian approach: Van Neumann & Morgenstern<br>
+<i class="far fa-file-alt"></i> [Van Neumann & Morgenstern (1944)](../../literature/GoodChoices/NeumannMorgenstern1944TheoryOfGamesAndEconomicBehaviour1)
+
+Was verstehen van Neumann und Morgenstern unter utility, was unter preference (systems)?<br>
+<i class="fas fa-question"></i> Was sind die Axiome und welche Rolle spielen sie?<br>
+<i class="fas fa-question"></i> Was sind gute Entscheidungen nach van Neumann und Morgenstern?
