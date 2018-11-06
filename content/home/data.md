@@ -15,10 +15,13 @@ weight = 55
 
 +++
 
-[<i class="far fa-file-alt"></i>](pdf/WulffEtAl2015LongShortRun.pdf) Wulff, D. U., Hills, T. T., & Hertwig, R. (2015). How short-and long-run aspirations impact search and choice in decisions from experience. *Cognition*, 144, 29-37.
+Wulff, D. U., Hills, T. T., & Hertwig, R. (2015). How short-and long-run aspirations impact search and choice in decisions from experience. *Cognition*, 144, 29-37.
 
-<i class="fas fa-database"></i> [Get data](data/WulffHillsHertwig2015ShortLongRun.zip)
+[<i class="fas fa-database"></i>](data/WulffHillsHertwig2015ShortLongRun.zip),
+[<i class="far fa-file-alt"></i>](pdf/WulffEtAl2015LongShortRun.pdf)
 
-[<i class="far fa-file-alt"></i>](pdf/WulffEtAl2018GapMeta.pdf) Wulff, D. U., Mergenthaler-Canseco, M., & Hertwig, R. (2018). A meta-analytic review of two modes of learning and the description-experience gap. *Psychological bulletin*, 144(2), 140-176.
 
-<i class="fas fa-database"></i> [Get data](data/WulffEtAl_TwoModes_Data.zip)
+Wulff, D. U., Mergenthaler-Canseco, M., & Hertwig, R. (2018). A meta-analytic review of two modes of learning and the description-experience gap. *Psychological bulletin*, 144(2), 140-176.
+
+[<i class="fas fa-database"></i>](data/WulffEtAl_TwoModes_Data.zip),
+[<i class="far fa-file-alt"></i>](pdf/WulffEtAl2018GapMeta.pdf)
