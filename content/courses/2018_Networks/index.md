@@ -45,3 +45,6 @@ Das Ziel dieses Seminars mit Übungen ist es die Grundlagen der Netzwerkanalyse 
 <i class="far fa-file-alt"></i> [Milgram (1967)](../../literature/Networks/Milgram1967SmallWorldProblem.pdf)<br>
 <i class="far fa-file-alt"></i> [Dodds et al. (2003)](../../literature/Networks/DoddsEtAl2003SmallWorldByEmail.pdf)<br>
 <i class="fas fa-list-ul fa-sm  fa-sm"></i> [Assignment](https://docs.google.com/forms/d/e/1FAIpQLSdljPsCQIz5Aqh5PTO2xsstpEygAi6yQqof7Od3Ghj0Bv4ryw/viewform?usp=sf_link)
+
+06.11. Social networks pt. 2<br>
+<i class="fas fa-database"></i> [Responses](data/psychonet_responses.RDS)
