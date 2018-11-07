@@ -24,6 +24,5 @@ count = 5
 #   0 = Simple
 #   1 = Detailed
 #   2 = Stream
-list_format = 2
+list_format = 0
 +++
-
