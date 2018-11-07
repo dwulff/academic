@@ -52,8 +52,8 @@ url_poster = ""
 url_source = ""
 
 url_custom = [
-{name = "Journal article", url = "pdf/WulffVanDenBos2017ModelingDelayDiscounting.pdf"},
-{name = "Supplementary material", url = "pdf/WulffVanDenBos_ModelingDelayDiscounting_Supplementarymaterial.pdf"}]
+{name = "Journal article", url = "../pdf/WulffVanDenBos2017ModelingDelayDiscounting.pdf"},
+{name = "Supplementary material", url = "../pdf/WulffVanDenBos_ModelingDelayDiscounting_Supplementarymaterial.pdf"}]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

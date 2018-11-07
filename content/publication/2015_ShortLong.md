@@ -50,7 +50,7 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
-url_custom = [{name = "Journal article", url = "pdf/WulffEtAl2015LongShortRun.pdf"}]
+url_custom = [{name = "Journal article", url = "../pdf/WulffEtAl2015LongShortRun.pdf"}]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

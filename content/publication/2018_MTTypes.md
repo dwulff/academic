@@ -51,7 +51,7 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
-url_custom = [{name = "Book chapter", url = "pdf/WulffEtAl2018MTTypes.pdf"}]
+url_custom = [{name = "Book chapter", url = "../pdf/WulffEtAl2018MTTypes.pdf"}]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

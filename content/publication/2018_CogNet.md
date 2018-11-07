@@ -51,7 +51,7 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
-url_custom = [{name = "Preprint", url = "pdf/SiewEtAl2018CogNet.pdf"}]
+url_custom = [{name = "Preprint", url = "../pdf/SiewEtAl2018CogNet.pdf"}]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
