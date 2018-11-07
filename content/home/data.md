@@ -23,5 +23,5 @@ Wulff, D. U., Hills, T. T., & Hertwig, R. (2015). How short-and long-run aspirat
 
 Wulff, D. U., Mergenthaler-Canseco, M., & Hertwig, R. (2018). A meta-analytic review of two modes of learning and the description-experience gap. *Psychological bulletin, 144*(2), 140-176.
 
-[<i class="fas fa-database"></i>](data/WulffEtAl_TwoModes_Data.zip),
+<!--[<i class="fas fa-database"></i>](data/WulffEtAl_TwoModes_Data.zip),-->
 [<i class="far fa-file-alt"></i>](pdf/WulffEtAl2018GapMeta.pdf)
