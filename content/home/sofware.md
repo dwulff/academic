@@ -11,7 +11,7 @@ title = "Software"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 53
 
 +++
 
