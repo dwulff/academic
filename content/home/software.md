@@ -17,7 +17,7 @@ weight = 53
 
 <i class="fab fa-python fa-2x"></i><br> [**manco-dev**](https://github.com/dwulff/manco) - A python-based GUI for semi-<b>man</b>ual spell-<b>co</b>rrection and word processing.
 
-<br><i class="fab fa-r-project fa-2x"></i><br> [**memnet**](https://cran.r-project.org/package=memnet) - R package for the analysis and high-performance simulation of risk decision making, including, e.g., models of Cumulative Prospect Theory, Decisions from Experience, Heuristics.  [vignette](https://cran.r-project.org/web/packages/memnet/vignettes/memnet.html), [dev](https://github.com/dwulff/memnet)
+<br><i class="fab fa-r-project fa-2x"></i><br> [**memnet**](https://cran.r-project.org/package=memnet) - R package offering efficient implementations of network science tools to facilitate research into human (semantic) memory containing, in its current version, methods to infer networks from verbal fluency data, network growth models, (switcher-) random walk processes, and tools to analyze and visualize networks. To deliver maximum performance the majority of the code is written in C++.  [vignette](https://cran.r-project.org/web/packages/memnet/vignettes/memnet.html), [dev](https://github.com/dwulff/memnet)
 
 [**cstab**](https://cran.r-project.org/package=cstab) - R Package for the selection of the number of clusters via normalized clustering instability and other methods. [web](http://pascalkieslich.github.io/mousetrap/reference/mousetrap.html), [dev](https://github.com/PascalKieslich/mousetrap)
 

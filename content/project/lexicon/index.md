@@ -10,7 +10,7 @@ summary = "Research on semantic networks and their lifespan development."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Risk","Description-experience gap","Meta-analysis","Information search"]
+tags = ["Mental lexicon", "Semantic memory", "Network science", "Computational semantics"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
