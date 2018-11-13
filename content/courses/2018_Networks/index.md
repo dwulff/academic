@@ -56,3 +56,7 @@ Das Ziel dieses Seminars mit Übungen ist es die Grundlagen der Netzwerkanalyse 
 <i class="fas fa-database fa-sm"></i> [Responses](data/psychonet_responses.RDS)<br>
 <i class="fas fa-list-ul fa-sm"></i> [Assignment](assignments/psychonet_pt2.pdf)<br>
 <i class="fas fa-file-upload fa-sm"></i> [Upload](https://docs.google.com/forms/d/e/1FAIpQLSedJXd4AwlpoUcFAjAq8hoBxd-KXssnGHKIjqPG0I4aC0VAbg/viewform?usp=sf_link)
+
+20.11. Semantic networks
+
+27.11. - No class -
