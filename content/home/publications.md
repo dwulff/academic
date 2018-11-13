@@ -5,7 +5,7 @@ widget = "publications"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Recent Publications"
+title = "Further Publications"
 subtitle = ""
 
 str_all = "More Publications"

@@ -51,3 +51,9 @@ Das Ziel dieses Seminars mit Übungen ist es die Grundlagen der Netzwerkanalyse 
 <i class="fas fa-database fa-sm"></i> [Responses](data/psychonet_responses.RDS)<br>
 <i class="fas fa-list-ul fa-sm"></i> [Assignment](assignments/psycho_net.pdf)<br>
 <i class="fas fa-file-upload fa-sm"></i> [Upload](https://docs.google.com/forms/d/e/1FAIpQLSeRqksaUJbT99IyvTNIePc9MBypiwrNqi264JLQS_7gy_Fb9Q/viewform?usp=sf_link)
+
+13.11. Social networks pt. 3<br>
+<i class="fas fa-desktop fa-sm"></i> [PsychoNet slides](https://docs.google.com/presentation/d/1NJE3dHfchnQ7LhWdI6rLuqX7ds3_tir4n2cGnBfmP6o/edit?usp=sharing)<br>
+<i class="fas fa-database fa-sm"></i> [Responses](data/psychonet_responses.RDS)<br>
+<i class="fas fa-list-ul fa-sm"></i> [Assignment](assignments/psycho_net.pdf)<br>
+<i class="fas fa-file-upload fa-sm"></i> [Upload](https://docs.google.com/forms/d/e/1FAIpQLSeRqksaUJbT99IyvTNIePc9MBypiwrNqi264JLQS_7gy_Fb9Q/viewform?usp=sf_link)
