@@ -63,3 +63,7 @@ Der Frage “Was sind gute Entscheidungen?” nachgehend, beschäftigt sich dies
 <i class="fas fa-question fa-sm"></i> *Warum ist less more, bzw. was ist das Bias-Variance-dilemma?*<br>
 <i class="fas fa-question fa-sm"></i> *Was sind Heuristiken, welche gibt es und wann funktionieren sie gut?*<br>
 <i class="fas fa-question fa-sm"></i> *Was sind gute Entscheidungen nach Gigerenzer & Brighton?*
+
+20.11.  - No class -
+
+27.11. Open questions
