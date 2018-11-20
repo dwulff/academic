@@ -67,3 +67,18 @@ Der Frage “Was sind gute Entscheidungen?” nachgehend, beschäftigt sich dies
 20.11. Open questions
 
 27.11. - No class -
+
+04.12. Ecological rationality
+<i class="far fa-file-alt"></i> [Katsikopoulos et al., (2010)](../../literature/GoodChoices/KatsikopoulosEtAl2010TheRobustBeauty.pdf)<br>
+<i class="far fa-file-alt"></i> [Simsek (2013)](../../literature/GoodChoices/Simsek2013Dominance.pdf)<br>
+<i class="fas fa-question fa-sm"></i> *Was ist wichtiger, cue order oder cue direction, und wie gut sind unsere Intuitionen diesbezüglich?*<br>
+<i class="fas fa-question fa-sm"></i> *Was ist dominance, cumulative dominance, und noncompensatoriness?*<br>
+<i class="fas fa-question fa-sm"></i> *Warum funktionieren Heuristiken und wann?*
+
+11.12. Nudges vs. Boosts
+<i class="far fa-file-alt"></i> [Hertwig & Grüne-Yanoff (2017), (2010)](../../literature/GoodChoices/HertwigGruene-Yanoff2017.pdf)<br>
+<i class="far fa-file-alt"></i> [Thaler & Sunstein (2003)](../../literature/GoodChoices/ThalerSunstein2003LibertarianPaternalism.pdf)<br>
+<i class="fas fa-question fa-sm"></i> *Was sind Nudges und (warum) sollten man sie benutzen?*<br>
+<i class="fas fa-question fa-sm"></i> *Was sind Boosts und (warum) sind die besser als Nudges?*
+
+18.12. Exam

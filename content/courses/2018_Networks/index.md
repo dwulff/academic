@@ -58,5 +58,13 @@ Das Ziel dieses Seminars mit Übungen ist es die Grundlagen der Netzwerkanalyse 
 <i class="fas fa-file-upload fa-sm"></i> [Upload](https://docs.google.com/forms/d/e/1FAIpQLSedJXd4AwlpoUcFAjAq8hoBxd-KXssnGHKIjqPG0I4aC0VAbg/viewform?usp=sf_link)
 
 20.11. Semantic networks
+<i class="far fa-file-alt"></i> [Wulff et al. (in prep)](https://psyarxiv.com/s73dp/download)
+<i class="fas fa-list-ul fa-sm  fa-sm"></i> [Assignment (pending)]()
 
 27.11. - No class -
+
+04.12. Semantic networks pt. 2
+
+11.12. Clinical Networks
+
+18.12. Exam
