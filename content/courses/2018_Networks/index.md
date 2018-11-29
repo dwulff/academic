@@ -63,11 +63,11 @@ Das Ziel dieses Seminars mit Übungen ist es die Grundlagen der Netzwerkanalyse 
 
 27.11. - No class -
 
-04.12. Semantic networks pt. 2
+04.12. Semantic networks pt. 2<br>
 <i class="fas fa-database fa-sm"></i> [Responses](data/city_edges.RDS)<br>
 <i class="fas fa-list-ul fa-sm"></i> [Assignment](assignments/citynet.pdf)<br>
 
-11.12. Clinical Networks
-<i class="far fa-file-alt"></i> [](../../literature/Networks/BorsboomCramer2013AnnualReview.pdf)<br>
+11.12. Clinical Networks<br>
+<i class="far fa-file-alt"></i> [](../../literature/Networks/BorsboomCramer2013AnnualReview.pdf)
 
 18.12. Exam
