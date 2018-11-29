@@ -68,6 +68,6 @@ Das Ziel dieses Seminars mit Übungen ist es die Grundlagen der Netzwerkanalyse 
 <i class="fas fa-list-ul fa-sm"></i> [Assignment](assignments/citynet.pdf)<br>
 
 11.12. Clinical Networks<br>
-<i class="far fa-file-alt"></i> [](../../literature/Networks/BorsboomCramer2013AnnualReview.pdf)
+<i class="far fa-file-alt"></i> [Borsboom & Cramer, 2013](../../literature/Networks/BorsboomCramer2013AnnualReview.pdf)
 
 18.12. Exam
