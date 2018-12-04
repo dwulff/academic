@@ -9,13 +9,17 @@ caption = ""
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 
-
-
 Seminar, Dienstag, 14.15-15.45, Seminarraum 11
 
 ## Seminarablauf
 
 Der Frage “Was sind gute Entscheidungen?” nachgehend, beschäftigt sich dieses Seminar mit der philosophischen, ökonomischen und psychologischen Literatur zum Thema Rationalität. In jeder Sitzung werden hierzu jeweils ein oder zwei Zeitschriftenartikel (oder Buchkapitel) besprochen. Zur Vorbereitung lesen die Teilnehmer vor der nächsten Sitzung die Literatur und analysieren sie hinsichtlich 3-5 zentraler Fragen. Zu Beginn jeder Sitzung werden die Teilnehmer zufällig in Kleingruppen aufgeteilt, die in den ersten 45min der Sitzung jeweils eine der Fragen besprechen und für die anderen Teilnehmer aufbereiten. In den zweiten 45min stellen die Teilnehmer die aufgearbeiteten Inhalten in einer Kurzpräsentation von 5-10min Länge (max. 2-3 Folien) vor. Die Seminarleistung wird durch das Bestehen einer Klausur am des Seminars erbracht. Die Teilnahme wird nicht überprüft.
+
+## Lehrevaluation
+
+Link: https://k11331.evasys.de/evasys/online/
+Code: X3LWL
+
 
 ## Semesterplan
 

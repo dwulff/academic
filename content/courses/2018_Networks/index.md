@@ -17,6 +17,11 @@ Seminar, Dienstag, 16.15-17.45, Seminarraum 11
 
 Das Ziel dieses Seminars mit Übungen ist es die Grundlagen der Netzwerkanalyse im Kontext psychologischer Fragestellungen kennenzulernen und mittels der Programmiersprache R umzusetzen. Die einzelnen Sitzungen bestehen hierzu variabel aus der Besprechung vorbereiteter Artikel, kurzen Vorträgen, und der Bearbeitung der Übungen. Die Seminarleistung wird erbracht abgesehen von der fristgerechten Einreichung der einzelnen Übungen durch entweder das Bestehende der Klausur am Ende des Seminars oder einer 5-seitigen Forschungsarbeit erbracht. Die Anwesenheit wird nicht überprüft.
 
+## Lehrevaluation
+
+Link: https://k11331.evasys.de/evasys/online/
+Code: TMVEC
+
 ## Semesterplan
 
 18.09. - No class -
