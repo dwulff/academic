@@ -26,7 +26,7 @@ Code: (tba)
 19.02. Intro<br>
 <i class="far fa-file-alt"></i> [Piantadosi (2014)](../../literature/NaturalLanguage/Piantadosi2014.pdf)
 
-26.02. Zipf
+26.02. Frequency
 
 05.03. Assignment
 
