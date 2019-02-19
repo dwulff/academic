@@ -21,7 +21,7 @@ weight = 60
 [What are good decisions?](../courses/2018_GoodChoices) - theoretical seminar discussing in historical order foundational texts on the question of rationality and normative decision making.
 
 ## Spring 2019
-Natural language processing - seminar with exercises on using the analysis of digitized text for the purposes of psychological discovery and theory testing.
+[Natural language processing](../courses/2019_NaturalLanguage) - seminar with exercises on using the analysis of digitized text for the purposes of psychological discovery and theory testing.
 
 ## R Courses
 [The R Bootcamp](https://therbootcamp.github.io/) - extra-curricular R courses introducing academics and professionals to data science and applied machine learning with R.
