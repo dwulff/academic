@@ -9,7 +9,7 @@ caption = ""
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 
-Seminar, Dienstag, 14.15-15.45, Seminarraum 11
+Seminar, Dienstag, 16.15-17.45, Seminarraum 11
 
 ## Seminarablauf
 
@@ -27,6 +27,8 @@ Code: (tba)
 <i class="far fa-file-alt"></i> [Piantadosi (2014)](../../literature/NaturalLanguage/Piantadosi2014.pdf)
 
 26.02. Frequency
+<i class="fas fa-list-ul fa-sm"></i> [Assignment](assignments/NLP_-_Assignment_1.html)
+
 
 05.03. Assignment
 
