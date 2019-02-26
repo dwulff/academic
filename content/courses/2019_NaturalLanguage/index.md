@@ -27,12 +27,12 @@ Code: (tba)
 <i class="far fa-file-alt"></i> [Piantadosi (2014)](../../literature/NaturalLanguage/Piantadosi2014.pdf)
 
 26.02. Frequency <br>
-<i class="fas fa-list-ul fa-sm"></i> [Assignment](../../assignments/NLP_-_Assignment_1.html)
+<i class="fas fa-list-ul fa-sm"></i> [Assignment](../assignments/NLP_-_Assignment_1.html)
 
 
 05.03. Assignment
 
-12.03. Semantics
+12.03. - no class -
 
 19.03. Semantics
 
