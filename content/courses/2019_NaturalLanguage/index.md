@@ -27,8 +27,9 @@ Code: (tba)
 <i class="far fa-file-alt"></i> [Piantadosi (2014)](../../literature/NaturalLanguage/Piantadosi2014.pdf)
 
 26.02. Frequency <br>
+<i class="far fa-file-alt"></i> [Griffith et al. (2014)](../../literature/NaturalLanguage/Griffith2007.pdf)<br>
+<i class="far fa-calendar-check"></i> [Doodle](https://doodle.com/poll/zmsc6i7shy4iqt3g)<br>
 <i class="fas fa-list-ul fa-sm"></i> [Assignment](assignments/NLP_-_Assignment_1.pdf)
-<i class="far fa-file-alt"></i> [Piantadosi (2014)](../../literature/NaturalLanguage/Piantadosi2014.pdf)
 
 05.03. Assignment
 
