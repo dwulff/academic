@@ -46,7 +46,7 @@ Code: (tba)
 
 
 09.04. Affect<br>
-<i class="fas fa-list-ul fa-sm"></i> [tba]()
+<i class="fas fa-list-ul fa-sm"></i> tba
 
 16.04. Assignment
 
