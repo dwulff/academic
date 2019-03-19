@@ -35,7 +35,7 @@ Code: (tba)
 
 12.03. - no class -
 
-??.03. Semantics<br>
+19.03. Semantics<br>
 <i class="far fa-file-alt"></i> [Bullinaria & Levy (2007)](../../literature/NaturalLanguage/Bullinaria&Levy2007.pdf)<br>
 <i class="fas fa-list-ul fa-sm"></i> [Assignment](assignments/NLP_-_Assignment_2.pdf)
 
@@ -45,7 +45,7 @@ Code: (tba)
 02.04. Assignment
 
 
-09.04. Affect
+09.04. Affect<br>
 <i class="fas fa-list-ul fa-sm"></i> [tba]()
 
 16.04. Assignment
