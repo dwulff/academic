@@ -35,12 +35,12 @@ Code: (tba)
 
 12.03. - no class -
 
-??.03. Semantics
+??.03. Semantics<br>
 <i class="far fa-file-alt"></i> [Bullinaria & Levy (2007)](../../literature/NaturalLanguage/Bullinaria&Levy2007.pdf)<br>
 <i class="fas fa-list-ul fa-sm"></i> [Assignment](assignments/NLP_-_Assignment_2.pdf)
 
-26.03. Semantics
-<i class="far fa-file -alt"></i> [Bullinaria & Levy (2007)](../../literature/NaturalLanguage/Reagan2016.pdf)<br>
+26.03. Semantics<br>
+<i class="far fa-file -alt"></i> [Reagan et al. (2016)](../../literature/NaturalLanguage/Reagan2016.pdf)<br>
 
 02.04. Assignment
 
