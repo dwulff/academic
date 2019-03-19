@@ -36,16 +36,23 @@ Code: (tba)
 12.03. - no class -
 
 ??.03. Semantics
+<i class="far fa-file-alt"></i> [Bullinaria & Levy (2007)](../../literature/NaturalLanguage/Bullinaria&Levy2007.pdf)<br>
+<i class="fas fa-list-ul fa-sm"></i> [Assignment](assignments/NLP_-_Assignment_2.pdf)
 
-26.03. Assignment
+26.03. Semantics
+<i class="far fa-file -alt"></i> [Bullinaria & Levy (2007)](../../literature/NaturalLanguage/Reagan2016.pdf)<br>
 
-02.04. Affect
+02.04. Assignment
+
 
 09.04. Affect
+<i class="fas fa-list-ul fa-sm"></i> [tba]()
 
 16.04. Assignment
 
 23.04. Project proposals
+
+Data sources: tba
 
 30.04. Project
 
