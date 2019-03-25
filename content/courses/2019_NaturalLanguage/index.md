@@ -41,6 +41,7 @@ Code: (tba)
 
 26.03. Semantics<br>
 <i class="far fa-file -alt"></i> [Reagan et al. (2016)](../../literature/NaturalLanguage/Reagan2016.pdf)<br>
+<i class="fas fa-database fa-sm"></i> [M](data/letter_m.RDS), [S](data/letter_s.RDS), [Animals](data/animals.RDS), [Veggies](data/veggies.RDS), 
 
 02.04. Assignment
 
