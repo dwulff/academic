@@ -41,7 +41,7 @@ Code: (tba)
 
 26.03. Semantics<br>
 <i class="far fa-file -alt"></i> [Reagan et al. (2016)](../../literature/NaturalLanguage/Reagan2016.pdf)<br>
-<i class="fas fa-list-ul fa-sm"></i> [Assignment](assignments/NLP_-_Assignment_3.pdf)
+<i class="fas fa-list-ul fa-sm"></i> [Assignment](assignments/NLP_-_Assignment_3.pdf)<br>
 <i class="fas fa-database fa-sm"></i>[M](data/letter_m.RDS) <i class="fas fa-database fa-sm"></i>[S](data/letter_s.RDS) <i class="fas fa-database fa-sm"></i>[Animals](data/animals.RDS) <i class="fas fa-database fa-sm"></i>[Veggies](data/veggies.RDS),
 
 02.04. Assignment
