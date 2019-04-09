@@ -56,8 +56,18 @@ Code: (tba)
 16.04. Assignment
 
 23.04. Project proposals
+<i class="fas fa-list-ul fa-sm"></i> [Assignment](assignments/NLP_-_Assignment_4.pdf)<br>
 
-Data sources: tba
+Data sources:
+Books: [Books](http://www.gutenberg.org), [nGram](https://github.com/seancarmody/ngramr)<br>
+Twitter: [Various](https://www.figure-eight.com/data-for-everyone/), [twitteR](http://geoffjentry.hexdump.org/twitteR.pdf) <br>
+Presidential speeches: [CoPS](http://www.thegrammarlab.com/?nor-portfolio=corpus-of-presidential-speeches-cops-and-a-clintontrump-corpus)<br>
+Reviews: [Movies](http://ai.stanford.edu/~amaas/data/sentiment/)<br>
+Blogs: [BAC](http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm)<br>
+Email: [Enron](https://www.cs.cmu.edu/~./enron/)<br>
+News: [Headlines](https://www.kaggle.com/therohk/million-headlines)<br>
+Subtitles: [Opensubtitles](https://www.opensubtitles.org/de)<br>
+[and more...](https://github.com/niderhoff/nlp-datasets)
 
 30.04. Project
 
