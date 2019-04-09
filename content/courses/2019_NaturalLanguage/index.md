@@ -51,12 +51,11 @@ Code: (tba)
 
 
 09.04. Affect<br>
-<i class="fas fa-list-ul fa-sm"></i> tba
+<i class="fas fa-list-ul fa-sm"></i> [Assignment](assignments/NLP_-_Assignment_4.pdf)<br>
 
 16.04. Assignment
 
 23.04. Project proposals
-<i class="fas fa-list-ul fa-sm"></i> [Assignment](assignments/NLP_-_Assignment_4.pdf)<br>
 
 Data sources:
 Books: [Books](http://www.gutenberg.org), [nGram](https://github.com/seancarmody/ngramr)<br>
