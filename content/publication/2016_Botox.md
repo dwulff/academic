@@ -2,7 +2,7 @@
 title = "Long-term treatment of chronic migraine with OnabotulinumtoxinA: efficacy, quality of life and tolerability in a real-life setting"
 
 # Date first published.
-date = "2018-11-01"
+date = "2016-11-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Katja Kollewe", "Claus M. Escher", "Dirk U. Wulff", "Davood Fathi", "Lejla Paracka", "Bahram Mohammadi", "Dirk Dressler"]

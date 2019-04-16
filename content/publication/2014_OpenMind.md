@@ -2,7 +2,7 @@
 title = "Open minded psychology"
 
 # Date first published.
-date = "2016-06-01"
+date = "2014-06-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Wouter van den Bos", "Mirjam Jenny", "Dirk U. Wulff"]

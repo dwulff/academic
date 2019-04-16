@@ -2,7 +2,7 @@
 title = "Mouse-tracking: Detecting Types in Movement Trajectories"
 
 # Date first published.
-date = "2018-11-01"
+date = "2019-04-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Dirk U. Wulff", "Jonas M. B. Haslbeck", "Pascal J. Kieslich", "Felix Henninger", "Michael Schulte-Mecklenbeck"]
@@ -32,7 +32,7 @@ abstract_short = "In this chapter, we present a new approach to analyzing mouse-
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

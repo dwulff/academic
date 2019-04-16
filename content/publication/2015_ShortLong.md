@@ -2,7 +2,7 @@
 title = "How short- and long-run aspirations impact search and choice in decisions from experience"
 
 # Date first published.
-date = "2018-12-01"
+date = "2015-12-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Dirk U. Wulff", "Thomas T. Hills", "Ralph Hertwig"]
@@ -31,7 +31,7 @@ abstract_short = "We investigated exploration and exploitation policies in choic
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

@@ -2,7 +2,7 @@
 title = "Estimating the Number of Clusters via Normalized Cluster Instability"
 
 # Date first published.
-date = "2018-11-01"
+date = "2016-11-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jonas M. B. Haslbeck", "Dirk U. Wulff"]

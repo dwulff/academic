@@ -2,7 +2,7 @@
 title = "Mouse-tracking: A practical guide to implementation and analysis"
 
 # Date first published.
-date = "2018-11-01"
+date = "2019-04-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Pascal J. Kieslich", "Felix Henninger", "Dirk U. Wulff", "Jonas M. B. Haslbeck", "Michael Schulte-Mecklenbeck"]

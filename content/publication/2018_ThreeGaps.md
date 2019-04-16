@@ -32,7 +32,7 @@ abstract_short = "We review three important gaps that have emerged from work ste
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
