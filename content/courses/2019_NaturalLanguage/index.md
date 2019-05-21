@@ -11,6 +11,11 @@ caption = ""
 
 Seminar, Dienstag, 16.15-17.45, Seminarraum 11
 
+## Lehrevaluation
+
+Link: https://k11331.evasys.de/evasys/online/
+Code: 97JEY
+
 ## Seminarablauf
 
 This seminar will consist of reading and discussing relevant literature and practical programming exercises in R. We will discuss three main topics: the statistical structure of language, learning and semantic memory, and affect as expressed in language. The final 3-4 weeks will be devoted to conducting final projects, in which each student addresses a (small) psychological question using openly available natural language data. During the project period there will be no classes; supervision will be provided through 1-1 support, in person or virtual. The final project will be documented in a 2-3 page summary (1.5 lines, font size 12) and presented in a 5-10min presentation during the final session (21.5.).  
