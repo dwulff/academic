@@ -15,13 +15,13 @@ weight = 60
 
 +++
 
-## Fall 2018
-[Networks in Psychology](../courses/2018_Networks) - seminar with exercises on the theoretical and practical basic of networks science with applied examples from psychology including social networks, semantic networks, psychometric networks, and neural networks.
-
-[What are good decisions?](../courses/2018_GoodChoices) - theoretical seminar discussing in historical order foundational texts on the question of rationality and normative decision making.
-
 ## Spring 2019
 [Natural language processing](../courses/2019_NaturalLanguage) - seminar on using the analysis of digitized text for psychological discovery and theory testing.
+
+## Fall 2019
+[Networks in Psychology](../courses/2019_Networks) - seminar with exercises on the theoretical and practical basic of networks science with applied examples from psychology including social networks, semantic networks, psychometric networks, and neural networks.
+
+[What are good decisions?](../courses/2019_GoodChoices) - theoretical seminar discussing in historical order foundational texts on the question of rationality and normative decision making.
 
 ## R Courses
 [The R Bootcamp](https://therbootcamp.github.io/) - extra-curricular R courses introducing academics and professionals to data science and applied machine learning with R.
