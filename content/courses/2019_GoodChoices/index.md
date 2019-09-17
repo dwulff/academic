@@ -27,7 +27,7 @@ Code: <!---X3LWL--->
 
 24.09 The Beginnings - Pascal, Fermat, and Bernoulli<br>
 <i class="far fa-file-alt"></i> [Fermat & Pascal (1654)](../../literature/GoodChoices/fermatpascal.pdf)<br>
-<i class="far fa-file-alt"></i> [Bernoulli (1738)](../../literature/GoodChoices/Bernoulli_1954_Exposition.pdf)<br>
+<i class="far fa-file-alt"></i> [Bernoulli (1738)](../../literature/GoodChoices/Bernoulli_1954_Exposition of a new theory on the measurement of risk.pdf)<br>
 <i class="fas fa-question fa-sm"></i> *Was sind gute Entscheidungen nach Fermat und Pascal?*<br>
 <i class="fas fa-question fa-sm"></i> *Was ist das St. Petersburg paradox und wie löst es Bernoulli?*<br>
 <i class="fas fa-question fa-sm"></i> *Was sind gute Entscheidungen nach Bernoulli?*
