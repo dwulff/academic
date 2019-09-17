@@ -19,7 +19,7 @@ Das Ziel dieses Seminars mit Übungen ist es die Grundlagen der Netzwerkanalyse 
 
 ## Lehrevaluation
 
-Link: <!---https://k11331.evasys.de/evasys/online/--->
+Link: <!---https://k11331.evasys.de/evasys/online/---><br>
 Code: <!---TMVEC--->
 
 ## Semesterplan
