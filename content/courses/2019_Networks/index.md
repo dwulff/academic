@@ -26,7 +26,7 @@ Code: <!---TMVEC--->
 
 17.09. Introduction
 
-24.09. Introduction to Network Science
+24.09. Introduction to Network Science<br>
 <i class="far fa-file-alt"></i> [Barabasi (2012)](../../literature/Networks/Barabasi2012NetworkTakeover.pdf)<br>
 <i class="far fa-file-alt"></i> [Watts & Strogatz (1999)](../../literature/Networks/WattsStrogatz1998CollectiveDynamicsSmallWorld.pdf)
 
