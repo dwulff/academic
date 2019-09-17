@@ -9,7 +9,7 @@ caption = ""
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 
-Seminar, Dienstag, 14.15-15.45, Seminarraum 11
+Seminar, Dienstag, 14.15-15.45, Seminarraum 04
 
 ## Seminarablauf
 
@@ -17,8 +17,8 @@ Der Frage “Was sind gute Entscheidungen?” nachgehend, beschäftigt sich dies
 
 ## Lehrevaluation
 
-Link: https://k11331.evasys.de/evasys/online/
-Code: X3LWL
+Link: <!---https://k11331.evasys.de/evasys/online/--->
+Code: <!---X3LWL--->
 
 ## Semesterplan
 
