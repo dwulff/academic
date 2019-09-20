@@ -11,11 +11,9 @@ caption = ""
 
 
 
-Seminar, Donnerstags, 16.15-17.45, Hörsaal XX
+ Vorlesung, Donnerstags, 16.15-17.45, Hörsaal XX
 
-Das Ziel dieser Vorlesung ist es grundlegende Themen der kognitiven Psychologie in den Teilbereichen Wahrnehmung, Lernen & Gedächtnis, und Urteiilen & Entscheiden zu erarbeiten. Zusätzlich wöchentlichen Vorlesung werden praktische Übungen geboten, die es erlauben einzelne Aspekte zu wiederholen und zu vertiefen.  
-
-Die Anwesenheit wird in der Vorlesung wird nicht überprüft. Die Kreditpunkte werden durch das Bestehen der Klausur und dem Bearbeiten von mindestens 6 der 12 Übungen erworben.  
+Das Ziel dieser Vorlesung ist es grundlegende Themen der kognitiven Psychologie in den Teilbereichen Wahrnehmung, Lernen & Gedächtnis, und Urteiilen & Entscheiden zu erarbeiten. Zusätzlich wöchentlichen Vorlesung werden praktische Übungen geboten, die es erlauben einzelne Aspekte zu wiederholen und zu vertiefen. Die Anwesenheit wird in der Vorlesung wird nicht überprüft. Die Kreditpunkte werden durch das Bestehen der Klausur und dem Bearbeiten von mindestens 6 der 12 Übungen erworben.  
 
 
 ## Semesterplan
@@ -28,7 +26,7 @@ Die Anwesenheit wird in der Vorlesung wird nicht überprüft. Die Kreditpunkte w
 
 16.04. Einführung<br>
 
-### Wahrnehmung
+#### Wahrnehmung
 
 23.04. Verzerrungen der Wahrnehmung<br>
 
@@ -36,7 +34,7 @@ Die Anwesenheit wird in der Vorlesung wird nicht überprüft. Die Kreditpunkte w
 
 07.05. Kognitive Einflüsse auf die Wahrnehmung<br>
 
-### Lernen und Gedächtnis
+#### Lernen und Gedächtnis
 
 14.05. Aufmerksamkeit<br>
 
@@ -50,7 +48,7 @@ Die Anwesenheit wird in der Vorlesung wird nicht überprüft. Die Kreditpunkte w
 
 18.06. Langzeitgedächtnis<br>
 
-### Urteilen und Entscheiden
+#### Urteilen und Entscheiden
 
 25.06. Deduktives Denken<br>
 
