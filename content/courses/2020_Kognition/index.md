@@ -1,5 +1,5 @@
 +++
-title = "Kognition"
+title = "Kognitive Psychologie"
 
 [header]
 image = ""
