@@ -62,7 +62,7 @@ Das Ziel dieser Vorlesung ist es grundlegende Themen der kognitiven Psychologie 
 
 Zur Wiederholung und Vertiefung.
 
-<table cellspacing="0" cellpadding="0" style="border:none;bgcolor:white;" style="width:300px">
+<table cellspacing="0" cellpadding="0" style="border:none;bgcolor:white;width:auto">
 <tr>
   <td align="left" style="bgcolor:white;">
   <a href="https://www.hogrefe.de/shop/lehrbuch-allgemeine-psychologie-76569.html"><img src="https://www.hogrefe.de/shop/media/catalog/product/cache/800x/17f82f742ffe127f42dca9de82fb58b1/9/7/9783456856063_cop_kiesel.jpg" style="height:150px"></img></a>
