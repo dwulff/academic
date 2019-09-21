@@ -20,7 +20,7 @@ Das Ziel dieser Vorlesung ist es grundlegende Themen der kognitiven Psychologie 
 
 16.04. Einführung<br>
 
-<font style="font-weight:900;margin-top:20px">Wahrnehmung</font>
+<font style="font-weight:900;margin-top:20px">I Wahrnehmung</font>
 
 23.04. Verzerrungen der Wahrnehmung<br>
 
@@ -28,7 +28,7 @@ Das Ziel dieser Vorlesung ist es grundlegende Themen der kognitiven Psychologie 
 
 07.05. Kognitive Einflüsse auf die Wahrnehmung<br>
 
-<font style="font-weight:900;margin-top:20px">Lernen & Gedächtnis</font>
+<font style="font-weight:900;margin-top:20px">II Lernen & Gedächtnis</font>
 
 14.05. Aufmerksamkeit<br>
 
@@ -42,7 +42,7 @@ Das Ziel dieser Vorlesung ist es grundlegende Themen der kognitiven Psychologie 
 
 18.06. Langzeitgedächtnis<br>
 
-<font style="font-weight:900;margin-top:20px">Urteilen und Entscheiden</font>
+<font style="font-weight:900;margin-top:20px">III Urteilen und Entscheiden</font>
 
 25.06. Deduktives Denken<br>
 
