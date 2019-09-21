@@ -58,6 +58,26 @@ Das Ziel dieser Vorlesung ist es grundlegende Themen der kognitiven Psychologie 
 
 ## Literatur
 
+Zur Wiederholung und Vertiefung.
+
+<table cellspacing="0" cellpadding="0" style="border:none">
+<tr>
+  <td>
+  <a href="https://www.hogrefe.de/shop/lehrbuch-allgemeine-psychologie-76569.html"><img src="https://www.hogrefe.de/shop/media/catalog/product/cache/800x/17f82f742ffe127f42dca9de82fb58b1/9/7/9783456856063_cop_kiesel.jpg" height=150px></img></a>
+  </td>
+
+  <td>
+  <a href="https://global.oup.com/academic/product/foundations-of-human-memory-9780195333244?cc=ch&lang=en&"><img src="http://global.oup.com/academic/covers/uk/pdp/9780195333244" height=150px></img></a>
+  </td>
+
+  <td>
+  <a href="https://us.sagepub.com/en-us/nam/rational-choice-in-an-uncertain-world/book231783"><img src="https://us.sagepub.com/sites/default/files/upm-binaries/styles/sage_thumbnail_width_150px/feed/29296_Hastie_Rational_Choice_in_an_Uncertian_World_2ed_72ppiRGB_150pixw.jpg" height=150px></img></a>
+  </td>
+</tr>
+</table>
+
+
+
 <!--
 
 02.10. <br>
