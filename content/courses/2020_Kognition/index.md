@@ -11,7 +11,7 @@ caption = ""
 
 
 
- Vorlesung, Donnerstags, 16.15-17.45, Hörsaal XX
+ Vorlesung, Donnerstags, 10.15-11.45, Hörsaal XX
 
 Das Ziel dieser Vorlesung ist es grundlegende Themen der kognitiven Psychologie in den Teilbereichen Wahrnehmung, Lernen & Gedächtnis, und Urteiilen & Entscheiden zu erarbeiten. Zusätzlich wöchentlichen Vorlesung werden praktische Übungen geboten, die es erlauben einzelne Aspekte zu wiederholen und zu vertiefen. Die Anwesenheit wird in der Vorlesung wird nicht überprüft. Die Kreditpunkte werden durch das Bestehen der Klausur und dem Bearbeiten von mindestens 6 der 12 Übungen erworben.  
 
