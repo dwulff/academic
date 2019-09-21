@@ -18,22 +18,15 @@ Das Ziel dieser Vorlesung ist es grundlegende Themen der kognitiven Psychologie 
 
 ## Semesterplan
 
-17.09. Introduction
-
-24.09. Introduction to Network Science<br>
-
-
 16.04. Einführung<br>
 
-#### Wahrnehmung
+<br><font style="weight:900">Wahrnehmung</font>
 
 23.04. Verzerrungen der Wahrnehmung<br>
 
 30.04. Psychophysik<br>
 
 07.05. Kognitive Einflüsse auf die Wahrnehmung<br>
-
-#### Lernen und Gedächtnis
 
 14.05. Aufmerksamkeit<br>
 
@@ -47,15 +40,15 @@ Das Ziel dieser Vorlesung ist es grundlegende Themen der kognitiven Psychologie 
 
 18.06. Langzeitgedächtnis<br>
 
-#### Urteilen und Entscheiden
+<br><font style="weight:900">Urteilen und Entscheiden</font>
 
 25.06. Deduktives Denken<br>
 
 02.07. Induktives Denken<br>
 <i class="fas fa-desktop fa-sm"></i> [Folien](slides/Kognition_2020_10.pdf)<br>
 <i class="fas fa-list-ul fa-sm"></i> [Übung](https://docs.google.com/forms/d/e/1FAIpQLScfIQsNO7nER757VuSGZT65O6wdPK-5xH--nwym_9XxRmxDNw/viewform?usp=sf_link)<br>
-<i class="far fa-file-alt"></i> [Osherson et al. (2000)](../../literature/Kognition/OshersonEtAl1990.pdf), [Tversky & Kahneman (1974)](../../literature/Kognition/TverskyKahneman1974.pdf)
-
+<i class="far fa-file-alt"></i> [Osherson et al. (2000)](../../literature/Kognition/OshersonEtAl1990.pdf)<br>
+<i class="far fa-file-alt"></i> [Tversky & Kahneman (1974)](../../literature/Kognition/TverskyKahneman1974.pdf)<br>
 
 09.07. Präferenzen<br>
 
