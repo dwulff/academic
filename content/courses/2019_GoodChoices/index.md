@@ -32,7 +32,13 @@ Code: <!---X3LWL--->
 <i class="fas fa-question fa-sm"></i> *Was ist das St. Petersburg paradox und wie löst es Bernoulli?*<br>
 <i class="fas fa-question fa-sm"></i> *Was sind gute Entscheidungen nach Bernoulli?*
 
-01.10. The Beginnings - Ramsey<br>
+01.10. The Beginnings - Pascal, Fermat, and Bernoulli - 2nd try<br>
+<i class="far fa-file-alt"></i> [Fermat & Pascal (1654)](../../literature/GoodChoices/fermatpascal.pdf)<br>
+<i class="far fa-file-alt"></i> [Pascal (1670)](../../literature/GoodChoices/Pascal_Wager.pdf)<br>
+<i class="far fa-file-alt"></i> [Bernoulli (1738)](../../literature/GoodChoices/Bernoulli_1954_Exposition of a new theory on the measurement of risk.pdf)<br>
+<i class="fas fa-question fa-sm"></i> *Was sind gute Entscheidungen nach Fermat und Pascal?*<br>
+<i class="fas fa-question fa-sm"></i> *Was ist das St. Petersburg paradox und wie löst es Bernoulli?*<br>
+<i class="fas fa-question fa-sm"></i> *Was sind gute Entscheidungen nach Bernoulli?*
 
 08.10. - No class -<br>
 
