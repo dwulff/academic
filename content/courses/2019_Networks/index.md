@@ -24,7 +24,7 @@ Code: <!---TMVEC--->
 
 ## Semesterplan
 
-17.09. Introduction
+17.09. Introduction<br>
 <i class="far fa-file-alt"></i> [Barabasi (2012)](../../literature/Networks/Barabasi2012NetworkTakeover.pdf)<br>
 <i class="far fa-file-alt"></i> [Watts & Strogatz (1999)](../../literature/Networks/WattsStrogatz1998CollectiveDynamicsSmallWorld.pdf)
 
