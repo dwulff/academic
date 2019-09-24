@@ -25,15 +25,15 @@ Code: <!---TMVEC--->
 ## Semesterplan
 
 17.09. Introduction
-
-24.09. Introduction to Network Science<br>
 <i class="far fa-file-alt"></i> [Barabasi (2012)](../../literature/Networks/Barabasi2012NetworkTakeover.pdf)<br>
 <i class="far fa-file-alt"></i> [Watts & Strogatz (1999)](../../literature/Networks/WattsStrogatz1998CollectiveDynamicsSmallWorld.pdf)
 
-01.10. Introduction to R<br>
+24.09. Introduction to Network Science<br>
 <i class="fas fa-desktop fa-sm"></i> [Intro to R](https://therbootcamp.github.io/R4DS_2019Feb/_sessions/IntroToR/IntroToR.html)<br>
 <i class="fas fa-desktop fa-sm"></i> [Data](https://therbootcamp.github.io/R4DS_2019Feb/_sessions/Data/Data.html)<br>
-<i class="fas fa-list-ul fa-sm"></i> Assignment: Sections 1, 4, 6, 7, and 9 in the R Programming E swirl course. 
+<i class="fas fa-list-ul fa-sm"></i> Assignment: Sections 1, 4, 6, 7, and 9 in the R Programming E swirl course.
+
+01.10. Introduction to R<br>
 
 08.10. - No class -<br>
 
