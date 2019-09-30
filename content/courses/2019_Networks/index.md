@@ -10,7 +10,6 @@ caption = ""
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 
 
-
 Seminar, Dienstag, 16.15-17.45, Seminarraum 11
 
 ## Seminarablauf
@@ -29,11 +28,11 @@ Code: <!---TMVEC--->
 <i class="far fa-file-alt"></i> [Watts & Strogatz (1999)](../../literature/Networks/WattsStrogatz1998CollectiveDynamicsSmallWorld.pdf)
 
 24.09. Introduction to Network Science<br>
+
+01.10. Introduction to R<br>
 <i class="fas fa-desktop fa-sm"></i> [Intro to R](https://therbootcamp.github.io/R4DS_2019Feb/_sessions/IntroToR/IntroToR.html)<br>
 <i class="fas fa-desktop fa-sm"></i> [Data](https://therbootcamp.github.io/R4DS_2019Feb/_sessions/Data/Data.html)<br>
 <i class="fas fa-list-ul fa-sm"></i> Assignment: Sections 1, 4, 6, 7, and 9 in the R Programming E swirl course.
-
-01.10. Introduction to R<br>
 
 08.10. - No class -<br>
 
