@@ -37,6 +37,8 @@ Code: <!---TMVEC--->
 08.10. - No class -<br>
 
 15.10. Networks in R<br>
+<i class="fas fa-list-ul fa-sm"></i> [Assignment](assignments/watts_strogatz.pdf)<br>
+<i class="fas fa-file-upload"></i> [Upload](https://docs.google.com/forms/d/e/1FAIpQLScCp4c14J7Ii2KhVe9SEG7Lm72-oYtwqNn9PsBIboZIkmjuaw/viewform?usp=sf_link)
 
 22.10. Back to Watts & Strogatz<br>
 
