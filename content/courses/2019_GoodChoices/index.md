@@ -43,10 +43,19 @@ Code: <!---X3LWL--->
 08.10. - No class -<br>
 
 15.10. The Neo-Bernoullian approach: Van Neumann & Morgenstern<br>
+<i class="far fa-file-alt"></i> [Van Neumann & Morgenstern (1944)](../../literature/GoodChoices/Von NeumannMorgenstern1944TheoryOfGamesAndEconomicBehaviour1-4.pdf)<br>
+<i class="fas fa-question fa-sm"></i> *Was verstehen van Neumann und Morgenstern unter utility, was unter preference (systems)?*<br>
+<i class="fas fa-question fa-sm"></i> *Was sind die Axiome und welche Rolle spielen sie?*<br>
+<i class="fas fa-question fa-sm"></i> *Was sind gute Entscheidungen nach van Neumann und Morgenstern?*
 
-22.10. Open questions<br>
+22.10. Heuristics & Biases<br>
+<i class="far fa-file-alt"></i> [Tversky & Kahnemann (1973)](../../literature/GoodChoices/Tversky&Kahneman1973Heuristics&Biases.pdf)<br>
+<i class="far fa-file-alt"></i> [McFadden (1998)](../../literature/GoodChoices/McFadden1998RationalityForEconomists.pdf)<br>
+<i class="fas fa-question fa-sm"></i> *Was sind Heuristiken, was Biases, und wie hängen Sie zusammen?*<br>
+<i class="fas fa-question fa-sm"></i> *Welche Konsequenzen haben Biases für ökonomische Theorie?*<br>
+<i class="fas fa-question fa-sm"></i> *Was sind gute Entscheidungen nach Tversky, Kahneman, & McFadden?*
 
-29.10. Heuristics & Biases<br>
+29.10. Open questions<br>
 
 05.11. Another view<br>
 
