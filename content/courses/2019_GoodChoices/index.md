@@ -43,7 +43,7 @@ Code: <!---X3LWL--->
 08.10. - No class -<br>
 
 15.10. The Neo-Bernoullian approach: Van Neumann & Morgenstern<br>
-<i class="far fa-file-alt"></i> [Van Neumann & Morgenstern (1944)](../../literature/GoodChoices/Von NeumannMorgenstern1944TheoryOfGamesAndEconomicBehaviour1-4.pdf)<br>
+<i class="far fa-file-alt"></i> [Van Neumann & Morgenstern (1944)](../../literature/GoodChoices/Von NeumannMorgenstern1944TheoryOfGamesAndEconomicBehaviour1-4.pdf)<font style='font-size:10px'>Until p. 33. Chapter 1 is optional.</font><br>
 <i class="fas fa-question fa-sm"></i> *Was verstehen van Neumann und Morgenstern unter utility, was unter preference (systems)?*<br>
 <i class="fas fa-question fa-sm"></i> *Was sind die Axiome und welche Rolle spielen sie?*<br>
 <i class="fas fa-question fa-sm"></i> *Was sind gute Entscheidungen nach van Neumann und Morgenstern?*
