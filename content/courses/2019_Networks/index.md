@@ -32,7 +32,7 @@ Code: <!---TMVEC--->
 01.10. Introduction to R<br>
 <i class="fas fa-desktop fa-sm"></i> [Intro to R](https://therbootcamp.github.io/R4DS_2019Feb/_sessions/IntroToR/IntroToR.html)<br>
 <i class="fas fa-desktop fa-sm"></i> [Data](https://therbootcamp.github.io/R4DS_2019Feb/_sessions/Data/Data.html)<br>
-<i class="fas fa-list-ul fa-sm"></i> Assignment: Sections 1, 4, 6, 7, and 9 in the R Programming E swirl course.
+<i class="fas fa-list-ul fa-sm"></i> Assignment: Sections 1, 4, 6, 7, and 9 in the R Programming E swirl course. See https://github.com/swirldev/R_Programming_E
 
 08.10. - No class -<br>
 
