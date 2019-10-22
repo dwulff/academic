@@ -41,8 +41,13 @@ Code: <!---TMVEC--->
 <i class="fas fa-file-upload"></i> [Upload](https://docs.google.com/forms/d/e/1FAIpQLScCp4c14J7Ii2KhVe9SEG7Lm72-oYtwqNn9PsBIboZIkmjuaw/viewform?usp=sf_link)
 
 22.10. Back to Watts & Strogatz<br>
+<i class="fas fa-list-ul fa-sm"></i> [Assignment](assignments/watts_strogatz_pt2.pdf)<br>
+<i class="fas fa-file-upload"></i> [Upload](https://docs.google.com/forms/d/e/1FAIpQLScydGyIBzQYAoEKNIUaMWyCI2svqK1kIeZoItGThE5LsWF3kw/viewform?usp=sf_link)
+<i class="far fa-file-alt"></i> [Milgram (1967)](../../literature/Networks/Milgram1967SmallWorldProblem.pdf)<br>
+<i class="fas fa-list-ul fa-sm  fa-sm"></i> [Assignment](https://docs.google.com/forms/d/e/1FAIpQLSdljPsCQIz5Aqh5PTO2xsstpEygAi6yQqof7Od3Ghj0Bv4ryw/viewform?usp=sf_link)
 
 29.10. Social networks<br>
+
 
 05.11. Social networks pt. 2<br>
 
