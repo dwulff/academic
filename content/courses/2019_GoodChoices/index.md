@@ -56,8 +56,14 @@ Code: <!---X3LWL--->
 <i class="fas fa-question fa-sm"></i> *Was sind gute Entscheidungen nach Tversky, Kahneman, & McFadden?*
 
 29.10. Open questions<br>
+<i class="far fa-file-alt"></i> [Questions](https://docs.google.com/document/d/1ACdO-WN0gJhCoA7uSv4DcBFGgxTu9PPB4pjyNwVWH9s/edit?usp=sharing)
 
 05.11. Another view<br>
+<i class="far fa-file-alt"></i> [Arkes et al., (2016)](../../literature/GoodChoices/ArkesEtal2016HowBadIsIncoherence.pdf)<br>
+<i class="far fa-file-alt"></i> [Jackson & Bargetta (1975)](../../literature/GoodChoices/JacksonBargetta1975DutchBook.pdf)<br>
+<i class="fas fa-question fa-sm"></i> *Was ist eine Money Pump, was ein Dutch book, warum verliert man sicher Geld?*<br>
+<i class="fas fa-question fa-sm"></i> *Was ist Coherence, was Correspondence?*<br>
+<i class="fas fa-question fa-sm"></i> *Was sind gute Entscheidungen nach Arkes and colleagues?*
 
 12.11. Less is more<br>
 
