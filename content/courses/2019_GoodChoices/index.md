@@ -66,6 +66,10 @@ Code: <!---X3LWL--->
 <i class="fas fa-question fa-sm"></i> *Was sind gute Entscheidungen nach Arkes and colleagues?*
 
 12.11. Less is more<br>
+<i class="far fa-file-alt"></i> [Gigerenzer & Brighton (2009)](../../literature/GoodChoices/GigerenzerBrighton2009HomoHeuristicus.pdf)<br>
+<i class="fas fa-question fa-sm"></i> *Warum ist less more, bzw. was ist das Bias-Variance-dilemma?*<br>
+<i class="fas fa-question fa-sm"></i> *Was sind Heuristiken, welche gibt es und wann funktionieren sie gut?*<br>
+<i class="fas fa-question fa-sm"></i> *Was sind gute Entscheidungen nach Gigerenzer & Brighton?*
 
 19.11. - No class -<br>
 
