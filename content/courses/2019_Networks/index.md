@@ -52,6 +52,8 @@ Code: <!---TMVEC--->
 <i class="fas fa-file-upload fa-sm"></i> [Upload](https://docs.google.com/forms/d/e/1FAIpQLSeRqksaUJbT99IyvTNIePc9MBypiwrNqi264JLQS_7gy_Fb9Q/viewform?usp=sf_link)
 
 05.11. Social networks pt. 2<br>
+<i class="fas fa-list-ul fa-sm"></i> [Assignment](assignments/psychonet_pt2.pdf)<br>
+<i class="fas fa-file-upload fa-sm"></i> [Upload](https://docs.google.com/forms/d/e/1FAIpQLSedJXd4AwlpoUcFAjAq8hoBxd-KXssnGHKIjqPG0I4aC0VAbg/viewform?usp=sf_link)
 
 12.11. Semantic networks<br>
 
