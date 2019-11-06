@@ -53,7 +53,7 @@ Code: <!---TMVEC--->
 
 05.11. Social networks pt. 2<br>
 <i class="fas fa-list-ul fa-sm"></i> [Assignment](assignments/psychonet_pt2.pdf)<br>
-<i class="fas fa-file-upload fa-sm"></i> [Upload](https://docs.google.com/forms/d/e/1FAIpQLSedJXd4AwlpoUcFAjAq8hoBxd-KXssnGHKIjqPG0I4aC0VAbg/viewform?usp=sf_link)
+<i class="fas fa-file-upload fa-sm"></i> [Upload](https://docs.google.com/forms/d/e/1FAIpQLSedJXd4AwlpoUcFAjAq8hoBxd-KXssnGHKIjqPG0I4aC0VAbg/viewform?usp=sf_link)<br>
 <i class="fas fa-list-ul fa-sm  fa-sm"></i> [Assignment](https://docs.google.com/forms/d/e/1FAIpQLSdlq8bPWR2J_j5GnEsvKbzbH-RsvRy8np7hPMVji7GR1awgsg/viewform?usp=sf_link)
 
 12.11. Semantic networks<br>
