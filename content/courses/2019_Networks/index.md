@@ -64,9 +64,10 @@ Code: <!---TMVEC--->
 
 26.11. - No class -<br>
 
-03.12. Semantic networks pt. 2<br>
+03.12. Clinical networks pt. 2<br>
+<i class="far fa-file-alt"></i> [Borsboom & Cramer, 2013](../../literature/Networks/BorsboomCramer2013AnnualReview.pdf)
 
-10.12. Clinical Networks<br>
+10.12. ??? Networks<br>
 
 17.12. Exam
 
