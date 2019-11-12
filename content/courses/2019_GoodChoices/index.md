@@ -76,6 +76,11 @@ Code: <!---X3LWL--->
 26.11. - No class -<br>
 
 05.12. Ecological rationality<br>
+<i class="far fa-file-alt"></i> [Katsikopoulos et al. (2010)](../../literature/GoodChoices/KatsikopoulosEtAl2010TheRobustBeauty.pdf)<br>
+<i class="far fa-file-alt"></i> [Simsek (2013)](../../literature/GoodChoices/Simsek2013Dominance.pdf)<br>
+<i class="fas fa-question fa-sm"></i> *Was ist wichtiger, cue order oder cue direction, und wie gut sind unsere Intuitionen diesbezüglich?*<br>
+<i class="fas fa-question fa-sm"></i> *Was ist dominance, cumulative dominance, und noncompensatoriness?*<br>
+<i class="fas fa-question fa-sm"></i> *Warum funktionieren Heuristiken und wann?*
 
 12.11. Open questions<br>
 
