@@ -15,13 +15,15 @@ weight = 60
 
 +++
 
-## Spring 2019
-[Natural language processing](../courses/2019_NaturalLanguage) - seminar on using the analysis of digitized text for psychological discovery and theory testing.
+## Spring 2020
 
-## Fall 2019
-[Networks in Psychology](../courses/2019_Networks) - seminar with exercises on the theoretical and practical basic of networks science with applied examples from psychology including social networks, semantic networks, psychometric networks, and neural networks.
+[Data analytics for Psychology and Business](https://cdsbasel.github.io/dataanalytics/) - practice seminar on using data analytic tools to generate insight for Psychological research and Business purposes.
 
-[What are good decisions?](../courses/2019_GoodChoices) - theoretical seminar discussing in historical order foundational texts on the question of rationality and normative decision making.
+## Fall 2020
+
+[What are good decisions?](https://dwulff.github.io/Rationality_2020Autumn) - theoretical seminar discussing in historical order foundational texts on the question of rationality and normative decision making.
+
+[Natural language processing](https://dwulff.github.io/NLP_2020Autumn) - seminar on using the analysis of digitized text for psychological discovery and theory testing.
 
 ## R Courses
 [The R Bootcamp](https://therbootcamp.github.io/) - extra-curricular R courses introducing academics and professionals to data science and applied machine learning with R.
