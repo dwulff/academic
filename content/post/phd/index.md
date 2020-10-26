@@ -3,7 +3,7 @@ title = "PhD Position"
 subtitle = "Individual and age differences in cognitive and decision processes using network analytics and computational modeling"
 
 date = 2020-10-26T00:00:00
-lastmod = 2020-10-27T00:00:00
+lastmod = 2020-10-26T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
