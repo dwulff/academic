@@ -32,7 +32,7 @@ abstract_short = "We reevaluate the adverse effect of overtaxation using a reinf
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
