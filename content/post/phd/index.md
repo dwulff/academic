@@ -1,6 +1,6 @@
 +++
 title = "PhD Position"
-subtitle = "Individual and age differences in cognitive and decision processes using network analytics and computational modeling"
+subtitle = "Network analytics and computational modeling"
 
 date = 2020-10-26T00:00:00
 lastmod = 2020-10-26T00:00:00
@@ -50,8 +50,7 @@ summary = ""
 
 The Center for Cognitive and Decision Sciences at the Department of Psychology, University of Basel, Switzerland, seeks applicants for
 
-<center><b>1 Doctoral Position</b>
-(3 years)</center>
+<center><b>1 Doctoral Position</b><br>(3 years)</center>
 
 The position is available from January 2021, but later starting dates are possible.
 
