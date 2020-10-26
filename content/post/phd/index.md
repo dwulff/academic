@@ -2,8 +2,8 @@
 title = "Aging Lexicon Symposium"
 subtitle = "Theory, Models, and Measurement of the Life Span Development of the Mental Lexicon"
 
-date = 2016-04-20T00:00:00
-lastmod = 2018-01-13T00:00:00
+date = 2020-10-27T00:00:00
+lastmod = 2020-10-27T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -52,6 +52,7 @@ The Center for Cognitive and Decision Sciences at the Department of Psychology, 
 
 <center><b>1 Doctoral Position</b>
 (3 years)</center)
+
 The position is available from January 2021, but later starting dates are possible.
 
 <b>Job description</b>
