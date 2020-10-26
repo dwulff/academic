@@ -28,4 +28,4 @@ weight = 60
 [Natural language processing](https://dwulff.github.io/NLP_2020Autumn) - seminar on using the analysis of digitized text for psychological discovery and theory testing.
 
 ## R Courses
-[The R Bootcamp](https://therbootcamp.github.io/) - extra-curricular R courses introducing academics and professionals to data science and applied machine learning with R.
+[The R Bootcamp](https://therbootcamp.github.io/) - R courses introducing academics and professionals to data science and applied machine learning with R.
