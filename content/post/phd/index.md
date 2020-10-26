@@ -1,6 +1,6 @@
 +++
-title = "Aging Lexicon Symposium"
-subtitle = "Theory, Models, and Measurement of the Life Span Development of the Mental Lexicon"
+title = "PhD Position"
+subtitle = ""
 
 date = 2020-10-27T00:00:00
 lastmod = 2020-10-27T00:00:00
