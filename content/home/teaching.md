@@ -19,6 +19,8 @@ weight = 60
 
 [Data analytics for Psychology and Business](https://cdsbasel.github.io/dataanalytics/) - practice seminar on using data analytic tools to generate insight for Psychological research and Business purposes.
 
+[Introduction to neural networks](https://cdsbasel.github.io/neuralnetworks/) - seminar on the theoretical foundations and implementation of deep neural networks and their uses in cognitive research.
+
 ## Fall 2020
 
 [What are good decisions?](https://dwulff.github.io/Rationality_2020Autumn) - theoretical seminar discussing in historical order foundational texts on the question of rationality and normative decision making.
