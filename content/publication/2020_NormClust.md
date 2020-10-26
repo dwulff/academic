@@ -20,7 +20,7 @@ publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Computational Statistics*"
-publication_short = "In *Computation Stat*"
+publication_short = "In *Computational Statistics*"
 
 # Abstract and optional shortened version.
 abstract = "We improve instability-based methods for the selection of the number of clusters k in cluster analysis by developing a corrected clustering distance that corrects for the unwanted influence of the distribution of cluster sizes on cluster instability. We show that our corrected instability measure outperforms current instability-based measures across the whole sequence of possible k, overcoming limitations of current insabilitybased methods for large k. We also compare, for the first time, model-based and model-free approaches to determining cluster-instability and find their performance to be comparable. We make our method available in the R-package cstab."
