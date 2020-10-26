@@ -51,7 +51,7 @@ summary = ""
 The Center for Cognitive and Decision Sciences at the Department of Psychology, University of Basel, Switzerland, seeks applicants for
 
 <center><b>1 Doctoral Position</b>
-(3 years)</center)
+(3 years)</center>
 
 The position is available from January 2021, but later starting dates are possible.
 
