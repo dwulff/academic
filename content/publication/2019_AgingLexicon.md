@@ -19,8 +19,8 @@ authors = ["Dirk U. Wulff", "Simon De Deyne", "Michael N. Jones", "Rui Mata", "A
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In *PsyArXiv*"
-publication_short = "In *PsyArXiv*"
+publication = "In *Trends in Cognitive Sciences*"
+publication_short = "In *TiCS*"
 
 # Abstract and optional shortened version.
 abstract = "The field of cognitive aging has seen considerable advances in describing the linguistic and semantic changes that happen during the adult life span to uncover the structure of the mental lexicon (i.e., the mental repository of lexical and conceptual representations). Nevertheless, there is still debate concerning the sources of these changes, including the role of environmental exposure and several cognitive mechanisms associated with learning, representation, and retrieval of information. We review the current status of research in this field and outline a framework that promises to assess the contribution of both ecological and psychological aspects to the aging lexicon."
